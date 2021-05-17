@@ -6,8 +6,7 @@ tags :
 title: "Pandemic Projects"
 ---
 
-As you might've figured out [from the other posts](/archives.html#h-2020), my pandemic projects for 2020 have pretty much been
-the following...
+My pandemic projects for 2020/2021 have pretty much been the following...
 
 <!--more-->
 
