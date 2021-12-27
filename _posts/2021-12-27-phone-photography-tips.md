@@ -92,6 +92,27 @@ you'll have to zoom in or out a bit. Perhaps you'll need to move a bit to bring 
 into the best possible framing. This requires a bit of practice and thought, but it's a simple
 concept.
 
+Here's an example. I took this shot in November 2007. It's a tree on a hill near a friends' house,
+taken as the sun was setting. It's a bit under-exposed, but that's alright.
+
+![](/assets/images/2021-12-17/1-as-shot.jpg)
+
+Here's how Adobe Lightroom shows the image. Notice the thirds grid overlaid on the image. You
+can see that the tree isn't quite on the right hand vertical grid and the horizon is pretty
+well centered.
+
+![](/assets/images/2021-12-17/2-grid.jpg)
+
+Now, here's a treatment with a bit of cropping, highlighting, and contrast adjustment. The
+tree is now on the right third line and the horizon is on the bottom third. I didn't do much 
+saturation adjustment, other than to tone down the colors of the grasses to draw the eye
+to the sky and the tree. For those elements tell the story and it's much more dramatic and
+emotional.
+
+![](/assets/images/2021-12-17/3-cropped.jpg)
+
+
+
 There's a psychological foundation to why this rule works but it's not my purpose to explain it.
 As I said earlier, it's a guideline or framework, and not a mandate. If you want to center your
 subject and it looks good to you, then fire away.
