@@ -68,6 +68,7 @@ author:
     - label: "My72MGB.com"
       icon: "fas fa-fw fa-link"
       url: https://My72MGB.com"
+      target: _blank
 footer:
   links:
     - label: "Twitter"
