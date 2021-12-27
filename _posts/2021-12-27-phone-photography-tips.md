@@ -111,6 +111,12 @@ to the sky and the tree.
 ![](/assets/images/2021-12-17/3-cropped.jpg)
 
 Is it a better photo? It's certainly more dramatic and possibly tells a story without words.
+In case you're curious, here it is, with the same adjustments and with the trunk of the tree
+centered horizontally and filling the center third of the frame. 
+
+![](/assets/images/2021-12-17/4-centered.jpg)
+
+Is it a better shot? For me, it has much less emotional impact.
 
 There's a psychological foundation to why this rule works but it's not my purpose to explain it.
 As I said earlier, it's a guideline or framework, and not a mandate. If you want to center your
