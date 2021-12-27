@@ -196,3 +196,12 @@ bug or the streak of a windshield wiper. Whatever the photographer thought was b
 time has been ruined by whatever was on the window of their vehicle. Aside from the bugs, a
 window will distort the optics of the shot, so it's best to just remove that extra bit of glass
 from the shot if you can.
+
+## Follow Up
+
+As I mentioned before, I started this post almost a year ago because a friend really wanted
+better photos. I spent a few hours, guiding them gently down the rabbit hole and they've
+now moved on to a DSLR and doing great work. A DSLR isn't for everyone, but with a bit of
+effort and learning, your phone photos can certainly become more than just snapshots.
+
+Feel free to [DM me on Twitter](https://twitter.com/ericc).
