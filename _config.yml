@@ -73,10 +73,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ericc"
+      url: "ericc"
     - label: "Github"
       icon: "fab fa-fw fa-github-square"
-      url: "https://github.com/ehcloninger"
+      url: "ehcloninger"
 
 github: [metadata]
 
