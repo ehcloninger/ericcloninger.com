@@ -106,12 +106,11 @@ well centered.
 Now, here's a treatment with a bit of cropping, highlighting, and contrast adjustment. The
 tree is now on the right third line and the horizon is on the bottom third. I didn't do much 
 saturation adjustment, other than to tone down the colors of the grasses to draw the eye
-to the sky and the tree. For those elements tell the story and it's much more dramatic and
-emotional.
+to the sky and the tree. 
 
 ![](/assets/images/2021-12-17/3-cropped.jpg)
 
-
+Is it a better photo? It's certainly more dramatic and possibly tells a story without words.
 
 There's a psychological foundation to why this rule works but it's not my purpose to explain it.
 As I said earlier, it's a guideline or framework, and not a mandate. If you want to center your
