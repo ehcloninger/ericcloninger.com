@@ -67,15 +67,15 @@ author:
   links:
     - label: "Work Portfolio"
       icon: "fas fa-fw fa-link"
-      url: https://work.ericcloninger.com/"
+      url: /work
       target: _blank
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: https://www.linkedin.com/in/ericcloninger/"
+      url: https://www.linkedin.com/in/ericcloninger/
       target: _blank    
     - label: "My72MGB.com"
       icon: "fas fa-car"
-      url: https://My72MGB.com"
+      url: https://My72MGB.com
       target: _blank
 footer:
   links:
