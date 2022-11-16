@@ -12,7 +12,7 @@ I am interested in a position as a Senior Product Manager, Developer Relations M
 
 For the past 15 years, I&apos;ve been a Senior Product/Project Manager, focused on developer-focused products, developer relations, and mobile devices. During this time, I&apos;ve been heavily involved in the Eclipse and Android open-source communities. I am a skilled communicator, having authored many technical articles and as a frequent presenter at developer conferences. These activities can be seen in the sections below.
 
-Prior to Product Management, I developed software for 18 years. I am experienced at developing desktop and device software with C, C++, and Java. I am experienced in web server management, self-hosted and in the cloud. I&apos;ve contributed to several popular O&apos;Reilly technical books on Palm OS programming and Windows.
+Prior to Product Management, I developed software for 18 years. I am experienced at developing desktop and device software with C, C++, and Java. I am experienced in web server management, self-hosted and in the cloud as well as a solid understanding of web protocols. I&apos;ve contributed to several popular O&apos;Reilly technical books on Palm OS programming and Windows.
 
 In addition to my professional work, I held elected office from 2002-2016 as a member of the local school district Board of Education. I held this post through 3 elections, serving several times as President of the Board. I&apos;ve worked with community leaders on &quot;get out the vote&quot; campaigns to raise funds for three building projects totaling fifteen million dollars.
 
@@ -63,7 +63,7 @@ Most of my open source work predates Github, although I will occasionally fork/p
 | Year | Event | Representing | Topic |
 | ---- | ----- | ------------ | ----- |
 | 2015 | EclipseCon | Andmore Project | Andmore - The Eclipse Android Tooling Project |
-| 2013 | Samsung Developer Conference | Samsung | Gear S Primer – What you Need to Know to Get Started |
+| 2014 | Samsung Developer Conference | Samsung | Gear S Primer – What you Need to Know to Get Started |
 | &nbsp; | Online Tutorial | Samsung | Develop Samsung Gear and Android Apps with the Tizen IDE for Wearable |
 | &nbsp; | Live Webinar | Klocwork | Secure and Robust Android Development using Static Code Analysis |
 | 2012 | EclipseCon | Eclipse Sequoyah Project | [Android 101](https://docs.google.com/file/d/0B-Sb6dhnjo5lNExRYzVWaTdUeEs1WnUxcGtqZmc3dw/edit) |
