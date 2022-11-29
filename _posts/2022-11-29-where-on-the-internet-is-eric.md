@@ -29,13 +29,13 @@ If you use [Signal Messenger](https://signal.org) and know my cell number, I wil
 
 ### Reddit :arrow_up:
 
-I've been on Reddit for over 10 years. I mostly reply to pun threads on r/all and interct with people on a couple of hobby-specific subs. I don't use it as a social network and nobody there realizes that I'm a :dog: in real life.
+I've been on Reddit for over 10 years. I mostly reply to pun threads on r/all and interact with people on a couple of hobby-specific subs. I don't use it like I would a social network like Twitter or Facebox as nobody there realizes that I'm a :dog: in real life.
 
 I created a [new profile](https://www.reddit.com/user/Eriquay) so I can get messages there.
 
 <img src="/assets/images/eriquay-snoo.png" alt="drawing" width="200"/>
 
-### Slack :neutral_face:
+### Slack :arrow_up:
 
 I use Slack frequently for work, but I haven't got into finding communities with it. If you have a Slack workspace where you'd like a joker such as myself, send an invite.
 
