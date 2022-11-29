@@ -23,7 +23,9 @@ I have a [LinkedIn profile](https://www.linkedin.com/in/ericcloninger/) and I wi
 
 ### Phone :arrow_up:
 
-If you have my cell number from the last 20+ years, that number still works. It starts with '4' and ends with '9'. I have a Google Voice account and that number begins with '4' and ends with '8'. I no longer have a landline, so if you had a number with '663' in it, that number no longer works.
+If you have my cell number from the last 22+ years, that number still works. It starts with '4' and ends with '9'. I have a Google Voice account and that number begins with '4' and ends with '8'. I no longer have a landline, so if you had a number with '663' in it, that number no longer works.
+
+If you use [Signal Messenger](https://signal.org) and know my cell number, I will connect.
 
 ### Reddit :arrow_up:
 
@@ -32,6 +34,10 @@ I've been on Reddit for over 10 years. I mostly reply to pun threads on r/all an
 I created a [new profile](https://www.reddit.com/user/Eriquay) so I can get messages there.
 
 <img src="/assets/images/eriquay-snoo.png" alt="drawing" width="200"/>
+
+### Slack :neutral_face:
+
+I use Slack frequently for work, but I haven't got into finding communities with it. If you have a Slack workspace where you'd like a joker such as myself, send an invite.
 
 ### Mastodon :neutral_face:
 
@@ -51,7 +57,11 @@ I've been on Discord for a few years, but I really don't socialize there. It's m
 
 ### Facebook :arrow_double_down:
 
-I have a Facebook account for the simple reason that my first wife has a memorial page on their network. I log in perhaps once every few years. I have no content other than a few listings in Marketplace. I don't accept new friend requests on Facebook.
+I have a Facebook account for the simple reason that my first wife has a memorial page there. I log in perhaps once every few years. I have no content other than a few listings in Marketplace. I don't accept new friend requests.
+
+### Whatsapp, Instagram :no_entry_sign:
+
+I would love to use Whatsapp for the community and its near-standard status as a messaging platform, but I'm not using a Meta platform. Similarly, Instagram.
 
 ### Telegram :no_entry_sign:
 
