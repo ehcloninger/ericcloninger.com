@@ -1,5 +1,5 @@
 ---
-title: "Where on the Internet is Eric? :earth_americas:"
+title: "Where on the Internet is Eric?"
 excerpt_separator: "<!--more-->"
 categories:
   - blog
