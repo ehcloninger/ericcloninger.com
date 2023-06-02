@@ -64,6 +64,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 author:
   name   : "Eric Cloninger"
@@ -88,8 +89,6 @@ footer:
     - label: "Github"
       icon: "fab fa-fw fa-github-square"
       url: "https://github.com/ehcloninger"
-
-github: [metadata]
 
 defaults:
   # _posts

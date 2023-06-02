@@ -35,6 +35,12 @@ paginate_path: /page:num/
 #   username: ericc
 #   image: https://EricCloninger.com/favicon.png
 
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "G-S8JFLZ5FE2"
+    anonymize_ip: false # default
+    
 include:
   - _pages
 
@@ -58,6 +64,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 author:
   name   : "Eric Cloninger"
