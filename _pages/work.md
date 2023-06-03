@@ -8,6 +8,8 @@ Dear Hiring Manager;
 
 Thank you for taking the time to review my qualifications. If you would prefer a resume to this site, you can find a copy [here](/assets/files/portfolio/Eric-Cloninger-Resume.pdf), while my LinkedIn profile is [here](https://www.linkedin.com/in/ericcloninger/).
 
+**NOTE:** As of April 2023, I've started a new role and I'm not looking for a new role.
+
 I am interested in a position as a Senior Product Manager, Developer Relations Manager, or other roles requiring a technical background. I have more than 30 years of experience in the software industry and a history of delivering and supporting products in these roles.
 
 For the past 15 years, I&apos;ve been a Senior Product/Project Manager, focused on developer-focused products, developer relations, and mobile devices. During this time, I&apos;ve been heavily involved in the Eclipse and Android open-source communities. I am a skilled communicator, having authored many technical articles and as a frequent presenter at developer conferences. These activities can be seen in the sections below.
@@ -28,7 +30,8 @@ Eric Cloninger
 
 | Dates | Role | Employer |
 | ----- | ---- | -------- |
-| 3/2018 - Present | Lead, Developer Relations | [Samsung Electronics](#samsung-electronics) |
+| 4/2023 - Present | Lead, Developer Docs and Resources | [Analog Devices](#analog-devices)
+| 3/2018 - 4/2023 | Lead, Developer Relations | [Samsung Electronics](#samsung-electronics) |
 | 7/2017 - 2/2018 | Consultant | [Oil &amp; Gas Industry](#self) |
 | 9/2015 - 4/2016 | Sr. Product Manager | [Cigital, Inc.](#cigital-inc) |
 | 8/2014 - 8/2015 | Sr. Product Manager | [Samsung Telecommunications](#samsung-telecommunications) |
@@ -174,6 +177,14 @@ I frequently author blog posts as a function of my work. These are some of the m
 | 2021/10/28 | [Samsung Developer Conference 2021--Recap](/blog/sdc21-recap) | Samsung |
 
 ## Primary Job Duties
+
+### Analog Devices
+Working remotely, traveling 1 or 2 times per month.
+
+**Delivering on the Future.** The second hire for a new software-focused 
+Developer Relations team at Analog Devices, a well-known semiconductor and
+sensor manufacturer. Tasked with creating content and experiences for a
+new audience segment that needs support throughout the tech stack.
 
 ### Samsung Electronics
 Working remotely, traveling 1 or 2 times per month (prior to COVID).
