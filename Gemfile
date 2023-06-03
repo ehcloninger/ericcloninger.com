@@ -1,11 +1,10 @@
 source "https://rubygems.org"
 
 # gem "github-pages", group: :jekyll_plugins
-
+gem "jekyll-sass-converter", "~> 2.0"
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem "minimal-mistakes-jekyll"
-gem 'sass-embedded', '~> 1.62', '>= 1.62.1'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
