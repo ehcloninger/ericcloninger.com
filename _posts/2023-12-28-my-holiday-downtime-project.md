@@ -41,7 +41,7 @@ My ISP has a combo modem/router box. They do all the management on the box and t
 
 The problem with the Google router is that it can only be updated with a mobile app. That app hides some of the crucial settings in strange places and sometimes it would just refuse to connect. And, in typical Google fashion, there was no customer support.
 
-What I wanted to get was a modern router similar to the old Cisco WRT54G that I had years ago with a custom Tomato/DD-WRT firmware. I could tweak a lot of settings to my liking and it always worked.
+What I wanted to get was a modern router similar to the old workhorse [Cisco/Linksys WRT54G](https://www.amazon.com/Linksys-WRT54G-Wireless-G-Router/dp/B00007KDVI) that I had years ago with a custom [Tomato](https://tomato.groov.pl/?page_id=164 or [DD-WRT](https://dd-wrt.com/) firmware. I could tweak a lot of settings to my liking and it always worked.
 
 * House network for personal devices with adblocking across entire network.
 
@@ -63,17 +63,17 @@ As it happens, my director at my new employer is formerly from Cisco. He filled 
 
 ### Let's Get it Started
 
-I didn't want to disrupt our internet access over Christmas while our kids were home, so I started trying to work on this away from our regular internet infrastructure. My wife is was on holiday last week and this week and will be back to work next week while I'm still not back until January 8th. I wanted to make sure I had everything working in the garage before tearing out the existing connections. I told her that this is like trying to grow a tree from the limbs out to the leaves without having a trunk.
+I didn't want to disrupt internet access over Christmas while our kids were home, so I started trying to work on this away from our regular internet infrastructure. My wife is was on holiday last week and this week and will be back to work next week while I'm still not back until January 8th. I wanted to make sure I had everything working in the garage before tearing out the existing connections. I told her that this is like trying to grow a tree from the limbs out to the leaves without having a trunk.
 
 So, imagine me in the cold garage, sitting on a folding chair with a 3 foot (1 meter) piece of lumber for a worktable. I had a portable heater at my feet to hold off the chill as I fastened things together and configured software.
 
 The day after Christmas, with the kids back at their own homes, I installed [Proxmox VE](https://www.proxmox.com/en/) on the mini-PC. Proxmox is a virtualization environment that will let me run a bunch of small services that normally would go on a Raspberry Pi. In the first VM, I installed [OPNSense](https://opnsense.org/), which is an open-source firewall.
 
-### The Point Where Everything Fell Apart
-
 I had the wireless APs attached to the switch, which was in turn attached to the mini-PC in port 2. Port 1 (aka ETH0) will eventually go into the ISP box, where it will get a dynamic IP address via their DHCP server.
 
 I was having a lot of problems understanding how to configure things like virtual adapters in Proxmox, as well as bridging them in a way that traffic could move about. I watched hours of YouTube videos from alleged experts in this field. I'm not sure if they're experts in virtual environments or just really good at getting their videos to the top of searches for virtualization. Regardless, I did a lot of experimenting using a couple of older PCs that worked well in the confines of the garage. I thought I had everything working right and was ready for the moment to plug it into the ISP box.
+
+### The Point Where Everything Fell Apart
 
 I asked my wife if she minded me turning off the internet for an hour or two and she said she didn't mind, as she was reading [a book](https://www.amazon.com/Salt-World-History-Mark-Kurlansky/dp/0142001619) I bought her for Christmas. So, off I went to disconnect the existing network and plug in my new network.
 
@@ -85,15 +85,15 @@ When I plugged the old network back to the ISP box, nothing worked there, either
 
 **&lt;img src="this-is-fine.jpg" alt="image of man screaming at a tree"&gt;**
 
-At this point, it was 5:30 PM and I was tired and angry. I knew my ISP office was closed, but I didn't know what else to do, so I called their technical support line. They have a 24-hour rollover to a remote management company, so I knew I could at least maybe get them to reset things from their side.
+At this point, it was 5:30 PM and I was tired and angry. I was definitely ready for an adult beverage. I knew my ISP office was closed, but I didn't know what else to do, so I called their technical support line. They have a 24-hour rollover to a remote management company, so I knew I could at least maybe get them to reset things from their side.
 
-That's when I heard the message. 
+That's when I heard *the message*.
 
 *We apologize for the inconvenience, but our network connection is not working. Please be patient while we fix the problem.*
 
-That's right. For the first time in 4 years, my ISP had an outage. And it just so happened to happen on the very afternoon that I was making big changes to my network.
+That's right. For the first time in 4 years, my ISP had an outage. And it just so happened on the very afternoon that I was making big changes to my network.
 
-As the kids these days say, FML. The ISP network came back on about 9 PM and I finished reseting my Google router. Which, it turns out is another aggravating thing about the Google setup. If you don't have an upstream connection, you can't configure their router with their app. I suppose it's made for dummies, not anyone wanting to do anything remotely technical.
+As the kids these days say, **FML**. The ISP network came back on about 9 PM and I finished reseting my Google router. Which, it turns out is another aggravating thing about the Google setup. If you don't have an upstream connection, you can't configure their router with their app. I suppose it's made for dummies, not anyone wanting to do anything remotely technical.
 
 ### Let's Try This Again
 
@@ -107,7 +107,7 @@ With everything working, I backed up the server and stored the backup image on m
 
 So now, I have ad-blocking on the entire house network. Woot.
 
-![](/assets/images/2023-12-28/woot-300x200.jpg)
+![](/assets/images/2023-12-28/woot-300x200.png)
 
 ### Loose Ends
 
