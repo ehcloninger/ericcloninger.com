@@ -123,4 +123,6 @@ There's still work to do, but I'm going to take a few days off until I start muc
 
 * Eventually, I want to replace my dedicated Arlo wifi camera system with one that uses POE ethernet cameras. The Arlo is OK, but it's very limited.
 
+* The big TODO and the typical technical debt, is that I only have this written down in a notebook. All the details of how it all works together is just a scribble on a sheet of paper. I need to write down all the procedures to make the network operate for the inevitable day when I'm on a work trip and my wife is dealing with a non-functioning network at home. *Bah, kick that can a little further down the road!*
+
 Finally, the point of all this work is in preparation for fiber internet. I see the work trucks at the nearby phone offices and their trucks are still pulling fiber bundles along the streets. I'm hoping to get set up in the next few months.
