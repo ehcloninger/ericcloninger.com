@@ -41,7 +41,7 @@ My ISP has a combo modem/router box. They do all the management on the box and t
 
 The problem with the Google router is that it can only be updated with a mobile app. That app hides some of the crucial settings in strange places and sometimes it would just refuse to connect. And, in typical Google fashion, there was no customer support.
 
-What I wanted to get was a modern router similar to the old workhorse [Cisco/Linksys WRT54G](https://www.amazon.com/Linksys-WRT54G-Wireless-G-Router/dp/B00007KDVI) that I had years ago with a custom [Tomato](https://tomato.groov.pl/?page_id=164 or [DD-WRT](https://dd-wrt.com/) firmware. I could tweak a lot of settings to my liking and it always worked.
+What I wanted to get was a modern router similar to the old workhorse [Cisco/Linksys WRT54G](https://www.amazon.com/Linksys-WRT54G-Wireless-G-Router/dp/B00007KDVI) that I had years ago with a custom [Tomato](https://tomato.groov.pl/?page_id=164) or [DD-WRT](https://dd-wrt.com/) firmware. I could tweak a lot of settings to my liking and it always worked.
 
 * House network for personal devices with adblocking across entire network.
 
