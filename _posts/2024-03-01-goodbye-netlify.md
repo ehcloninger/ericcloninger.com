@@ -31,23 +31,37 @@ I was happy using Netlify and I really have nothing bad to say about the service
 
 ### However
 
-This week a rather disturbing post came across Reddit and HackerNews. A free-tier user with a hobby 
+This week a rather disturbing post came across [Reddit](https://old.reddit.com/r/webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple/). A free-tier user with a hobby 
 site, like me, was sent an invoice for $104,000 because of a traffic spike that sent hundreds of
 terrabytes of requests to his site. The user, who is a web developer, said the requests were all
-after a copy of a 20-year-old song by a Taiwanese singer. Hmmm, what could've triggered that?
+after a copy of a 20-year-old song by a Taiwanese singer. Hmmm.
 
 The developer contacted the company about the invoice and they offered to reduce the charge to 
-$21,000 and after some pushback, they offered "only" $5,000. Now, there is no argument that there
+$21,000 and after some pushback, they offered "only" $5,000. There is no argument that there
 was a traffic spike, although there is some speculation about why this happened at this time.
-The CEO came onto HackerNews and said they've cancelled the invoice and they do that occasionally
-when this specific problem arises. So, they've known this can happen, but did nothing to prevent
-it.
+The CEO came onto HackerNews [and said](https://news.ycombinator.com/item?id=39520776) they've 
+cancelled the invoice and they do that occasionally when this specific problem arises. So, they've 
+known this can happen, but did nothing to prevent it.
 
-The real problem is that there are currently no controls to prevent these kinds of traffic spikes
-that can disable a website and lead to crazy invoices. Amazon AWS, on the other hand, has fine
-grained controls over such activity. The account I used when I previously had this site on AWS
+The problem is that there are currently no controls on Netlify to prevent these kinds of traffic 
+spikes that can disable a website and lead to crazy invoices. Amazon AWS, on the other hand, has 
+fine grained controls over such activity. The account I used when I previously had this site on AWS
 was configured to send me an email if my monthly bill ran over $30 and to stop all activity if
 it hit $40. 
+
+That was the driver behind me moving back to Amazon AWS.
+
+### Getting There
+
+Here I am on a Friday night, trying to remember all the steps to getting a static site running on AWS
+with SSL enabled. I've done this a dozen times, but it's been a few years. I also have been learning
+how to use Github's automation features, called "Actions". Thanks to some good tips, I have it up and
+running before all the DNS changes propagated. There might be a bit of downtime, but I don't think the
+12 people who visit my site each week will notice.
+
+If you're interested, here's a [good summary](https://pagertree.com/blog/jekyll-site-to-aws-s3-using-github-actions). 
+There was one minor change I had to make in AWS that is mentioned in [this StackOverflow comment)(https://stackoverflow.com/a/36272287/296758) 
+regarding ACLs.
 
 ### Welcome back
 
