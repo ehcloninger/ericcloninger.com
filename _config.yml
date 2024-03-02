@@ -72,10 +72,6 @@ author:
   bio    : "Some guy continuously making messes and cleaning them up again"
   # twitter: "ericc"
   links:
-    - label: "Work Portfolio"
-      icon: "fas fa-fw fa-link"
-      url: /work
-      target: _blank
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: https://www.linkedin.com/in/ericcloninger/

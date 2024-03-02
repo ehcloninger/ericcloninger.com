@@ -61,7 +61,9 @@ running before all the DNS changes propagated. There might be a bit of downtime,
 
 If you're interested, here's a [good summary](https://pagertree.com/blog/jekyll-site-to-aws-s3-using-github-actions). 
 There was one minor change I had to make in AWS that is mentioned in [this StackOverflow comment](https://stackoverflow.com/a/36272287/296758) 
-regarding ACLs.
+regarding ACLs. In addition to that change, there is a setting in S3 buckets to re-enable ACL access to the bucket. 
+I don't know why AWS has all these settings with similar purposes, but all I can do is write it down here
+for the next person to discover. Good luck.
 
 ## Welcome back
 
