@@ -18,8 +18,8 @@ I didn't mind the few dollars per month it took to host the site on Amazon, but 
 my updates posted required a number of manual steps, that if done incorrectly, would render the site
 unreachable.
 
-After doing this a few times, I realized I needed to spend some time researching and implementing a
-modern, automated workflow. That's when someone on a forum mentioned Netlify. The service wrapped up
+After screwing up a few times, I realized I needed to spend some time researching and implementing a
+modern, automated workflow. That's when someone on the Jekyll forums mentioned Netlify. Netlify wraps up
 all the automation in a smooth package for the low, low price of nothing for non-profits and vanity
 projects. 
 
@@ -32,9 +32,9 @@ I was happy using Netlify and I really have nothing bad to say about the service
 ## However
 
 This week a rather disturbing post came across [Reddit](https://old.reddit.com/r/webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple/). A free-tier user with a hobby 
-site, like me, was sent an invoice for $104,000 because of a traffic spike that sent hundreds of
+site, like mine, was sent an invoice for $104,000 because of a traffic spike that sent hundreds of
 terrabytes of requests to his site. The user, who is a web developer, said the requests were all
-after a copy of a 20-year-old song by a Taiwanese singer. Hmmm.
+after a copy of a 20-year-old song by a Cantonese singer. Hmmm.
 
 The developer contacted the company about the invoice and they offered to reduce the charge to 
 $21,000 and after some pushback, they offered "only" $5,000. There is no argument that there
@@ -49,23 +49,30 @@ fine grained controls over such activity. The account I used when I previously h
 was configured to send me an email if my monthly bill ran over $30 and to stop all activity if
 it hit $40. 
 
-That was the driver behind me moving back to Amazon AWS.
+That was the driver behind me moving back to Amazon AWS. Now, to spend a few hours at the keyboard.
 
 ## Getting There
 
 Here I am on a Friday night, trying to remember all the steps to getting a static site running on AWS
-with SSL enabled. I've done this a dozen times, but it's been a few years. I also have been learning
-how to use Github's automation features, called "Actions". Thanks to some good tips, I have it up and
-running before all the DNS changes propagated. There might be a bit of downtime, but I don't think the
-12 people who visit my site each week will notice.
+with SSL enabled. I've done this a dozen times, but it's been a few years. When it was all done, I'd 
+spent about 4 hours going through all these steps several times for several domains:
 
-If you're interested, here's a [good summary](https://pagertree.com/blog/jekyll-site-to-aws-s3-using-github-actions). 
-There was one minor change I had to make in AWS that is mentioned in [this StackOverflow comment](https://stackoverflow.com/a/36272287/296758) 
+* Transferring the domain ownership to the AWS account for my hosting for 3 domains. I could've left them with the existing domain hosting account, but I prefer to have it all in one place with the content.
+* Getting all the Route53 records pointing to the the same DNS servers as the zone records.
+* Requesting ACM certificates so that I could present my site with HTTPS. This took WAY too long for my liking, but fortunately I had other steps I could work on while I waited.
+* Creating S3 buckets with the right permissions for static website hosting without leaving them wide open.
+* Creating roles and users that can access the S3 bucket from Github Actions
+* Creating a CloudFront distribution to serve up the content from S3 worldwide with HTTPS.
+* Getting the Github Actions to push my updated website to AWS. This took about 45 minutes for this domain and 10 for the second. I decided not to publish the third domain just yet and I have a subdomain that I'm not sure I want to put online any longer.
+* Shutting down my Netlify account
+
+If you're interested, here's a [good summary](https://pagertree.com/blog/jekyll-site-to-aws-s3-using-github-actions) of the Github Actions setup. 
+There was one change I had to make in AWS that is mentioned in [this StackOverflow comment](https://stackoverflow.com/a/36272287/296758) 
 regarding ACLs. In addition to that change, there is a setting in S3 buckets to re-enable ACL access to the bucket. 
 I don't know why AWS has all these settings with similar purposes, but all I can do is write it down here
 for the next person to discover. Good luck.
 
-## Welcome back
+## Welcome Back
 
 If you're reading this, it means that I got everything moved over to AWS and configured correctly.
 I'll go back to paying $4/month knowing that I won't ever get a $104,000 invoice.
