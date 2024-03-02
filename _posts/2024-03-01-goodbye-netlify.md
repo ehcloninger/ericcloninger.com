@@ -29,7 +29,7 @@ the time with students and educators.
 
 I was happy using Netlify and I really have nothing bad to say about the service as I used it.
 
-### However
+## However
 
 This week a rather disturbing post came across [Reddit](https://old.reddit.com/r/webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple/). A free-tier user with a hobby 
 site, like me, was sent an invoice for $104,000 because of a traffic spike that sent hundreds of
@@ -51,7 +51,7 @@ it hit $40.
 
 That was the driver behind me moving back to Amazon AWS.
 
-### Getting There
+## Getting There
 
 Here I am on a Friday night, trying to remember all the steps to getting a static site running on AWS
 with SSL enabled. I've done this a dozen times, but it's been a few years. I also have been learning
@@ -60,10 +60,10 @@ running before all the DNS changes propagated. There might be a bit of downtime,
 12 people who visit my site each week will notice.
 
 If you're interested, here's a [good summary](https://pagertree.com/blog/jekyll-site-to-aws-s3-using-github-actions). 
-There was one minor change I had to make in AWS that is mentioned in [this StackOverflow comment)(https://stackoverflow.com/a/36272287/296758) 
+There was one minor change I had to make in AWS that is mentioned in [this StackOverflow comment](https://stackoverflow.com/a/36272287/296758) 
 regarding ACLs.
 
-### Welcome back
+## Welcome back
 
 If you're reading this, it means that I got everything moved over to AWS and configured correctly.
 I'll go back to paying $4/month knowing that I won't ever get a $104,000 invoice.
