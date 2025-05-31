@@ -4,15 +4,14 @@ tags : [CodeWarrior, PalmOS, i18n]
 title: From The Factory Floor November 1999
 hidden: true
 ---
-From The Factory Floor November 1999
-------------------------------------
 
 **NOTE:** This blog post was originally hosted on the [MacTech web
 site](http://www.mactech.com/). I've made every attempt to preserve this
 post with their original content. Many web links are no longer valid, so
 they have been removed and replaced with *emphasized* text.
 
----
+From The Factory Floor November 1999
+------------------------------------
 
     Volume Number: 15 (1999)
     Issue Number: 10

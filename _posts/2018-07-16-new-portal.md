@@ -4,6 +4,8 @@ tags : [Samsung]
 title: The Samsung Developer Program (SDP) has a new home!
 hidden: true
 ---
+**NOTE:** This blog post was originally hosted on the Samsung Developers site. This content is no longer available on the original site. I've made every attempt to preserve the original content with only formatting changes to fit this site.
+
 ![](/assets/images{{ page.id }}/2018-07-16-01-banner.jpg)
 
 For several years, the Samsung Developer Program has resided at SamsungDevelopers.com. Last week, we moved to our new home, and will begin working on new features to make developing with Samsung an even more rewarding experience.

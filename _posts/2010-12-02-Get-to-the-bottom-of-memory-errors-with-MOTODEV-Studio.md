@@ -6,8 +6,6 @@ hidden: true
 ---
 **NOTE:** This blog post was originally hosted on the **Motorola Developers (MOTODEV)**. site. That site is no longer online. I've made every attempt to preserve the original content with only formatting changes to fit this site.
 
----
-
 ### Episode IV - A New Hope
 
 One of the promises of Java, circa 1996, was that memory problems would

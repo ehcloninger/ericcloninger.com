@@ -6,8 +6,6 @@ hidden: true
 ---
 **NOTE:** This blog post was originally hosted on the **Motorola Developers (MOTODEV)**. site. That site is no longer online. I've made every attempt to preserve the original content with only formatting changes to fit this site.
 
----
-
 Hello everyone!
 
 It's my pleasure to announce that MOTODEV Studio 3.0 is now available

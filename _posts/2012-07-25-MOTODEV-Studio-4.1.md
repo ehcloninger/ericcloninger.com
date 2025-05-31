@@ -6,8 +6,6 @@ hidden: true
 ---
 **NOTE:** This blog post was originally hosted on the **Motorola Developers (MOTODEV)**. site. That site is no longer online. I've made every attempt to preserve the original content with only formatting changes to fit this site.
 
----
-
 Hello Everyone!
 
 One of the drawbacks of being a manager is I long for the days when I

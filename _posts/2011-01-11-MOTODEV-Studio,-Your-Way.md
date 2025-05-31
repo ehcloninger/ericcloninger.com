@@ -6,8 +6,6 @@ hidden: true
 ---
 **NOTE:** This blog post was originally hosted on the **Motorola Developers (MOTODEV)**. site. That site is no longer online. I've made every attempt to preserve the original content with only formatting changes to fit this site.
 
----
-
 MOTODEV Studio is capable of working with you if English is not your
 first language. In this article, I'll show how you can use MOTODEV
 Studio in Chinese, Portuguese or Spanish to develop great Android apps.

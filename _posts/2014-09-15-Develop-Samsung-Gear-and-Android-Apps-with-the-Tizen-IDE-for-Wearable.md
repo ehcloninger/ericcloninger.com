@@ -4,9 +4,8 @@ tags : [Samsung, Eclipse, Tizen]
 title: Develop Samsung Gear and Android Apps with the Tizen IDE for Wearable
 hidden: true
 ---
-**NOTE:** This blog post was originally hosted on the Samsung Developers site. This content is no longer available on the original site. I've made every attempt to preserve the original content with only formatting changes to fit this site.
 
----
+**NOTE:** This blog post was originally hosted on the Samsung Developers site. This content is no longer available on the original site. I've made every attempt to preserve the original content with only formatting changes to fit this site.
 
 Today, I'm going to show you how you can develop Samsung Gear and
 Android Java apps using the Tizen IDE for Wearable.

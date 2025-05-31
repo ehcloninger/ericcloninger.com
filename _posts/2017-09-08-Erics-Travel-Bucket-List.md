@@ -7,8 +7,7 @@ title: Eric's Travel Bucket List
 toc: true
 ---
 
-These are some of the places I want to visit, but this by no means an exhaustive list. If I were offered a
-trip to Paris or London, cities I've visited several times, I'd be ready to go in a matter of minutes.
+These are some of the places I want to visit, but this by no means an exhaustive list. If I were offered a trip to Paris or London, cities I've visited several times, I'd be ready to go in a matter of minutes.
 
 <!--more-->
 

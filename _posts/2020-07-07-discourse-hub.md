@@ -5,6 +5,8 @@ title: Get Answers on the Go with DiscourseHub
 hidden: true
 ---
 
+**NOTE:** This blog post was originally hosted on the Samsung Developers site. This content is no longer available on the original site. I've made every attempt to preserve the original content with only formatting changes to fit this site.
+
 ![](/assets/images{{ page.id }}/2020-07-07-01-banner-discourse.png)
 
 Hello Everyone! It's a quiet week here at Samsung Developer Central, and many of our developer advocates are enjoying a few days of summer vacation. I typically work behind the scenes, creating features of the Samsung Developers site and supporting the efforts of everyone else. Since nobody is looking, I thought I'd step out from behind the curtain and share a few secrets of our site(s) with you.

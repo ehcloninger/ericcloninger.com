@@ -6,8 +6,6 @@ hidden: true
 ---
 **NOTE:** This blog post was originally hosted on the **Motorola Developers (MOTODEV)**. site. That site is no longer online. I've made every attempt to preserve the original content with only formatting changes to fit this site.
 
----
-
 Greetings from snowy Colorado!
 
 Things seem happen when you least expect them. Both my kids were born in

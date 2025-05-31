@@ -21,8 +21,6 @@ I'm editing this document with the GitHub editor, which is rudimentary, but basi
 a full-featured editor, like VS Code or Atom, but for a quick note it's just fine. If you see this post
 with a lot of extra edits below, then you'll know it worked...
 
----
-
 **5 minutes later...**
 
 It worked on the first try. The real test will be when I can do this using my Samsung S6 tablet

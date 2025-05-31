@@ -4,15 +4,13 @@ tags : [CodeWarrior, PalmOS]
 title: From The Factory Floor March 1998
 hidden: true
 ---
-From The Factory Floor March 1998
----------------------------------
-
 **NOTE:** This blog post was originally hosted on the [MacTech web
 site](http://www.mactech.com/). I've made every attempt to preserve this
 post with their original content. Many web links are no longer valid, so
 they have been removed and replaced with *emphasized* text.
 
----
+From The Factory Floor March 1998
+---------------------------------
 
     Volume Number: 14 (1998)
     Issue Number: 3

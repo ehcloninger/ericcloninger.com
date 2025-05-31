@@ -6,8 +6,6 @@ hidden: true
 ---
 **NOTE:** This blog post was originally hosted on the **Motorola Developers (MOTODEV)**. site. That site is no longer online. I've made every attempt to preserve the original content with only formatting changes to fit this site.
 
----
-
 It snowed Sunday. Where we live that's unusual enough to cause us to
 stand outside and watch it. My kids built a snowman with the neighbors
 and threw snowballs until their fingers were frozen. The meteorologists

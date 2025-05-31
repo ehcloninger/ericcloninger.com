@@ -10,8 +10,6 @@ those posts may not continue to exist. I've made every attempt to
 preserve the original content with only formatting changes to fit this
 site.
 
----
-
 Google released Android 4.3 (Jellybean) source to the AOSP repository a
 few weeks ago. Whenever this happens, I sync my build box against the
 AOSP sources. Then I spend some time going through the diffs and run a

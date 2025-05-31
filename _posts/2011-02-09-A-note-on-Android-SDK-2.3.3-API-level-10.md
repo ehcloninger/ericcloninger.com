@@ -6,8 +6,6 @@ hidden: true
 ---
 **NOTE:** This blog post was originally hosted on the **Motorola Developers (MOTODEV)**. site. That site is no longer online. I've made every attempt to preserve the original content with only formatting changes to fit this site.
 
----
-
 Google released a new version of their SDK today for API level 10,
 targeting platform 2.3.3 (Gingerbread). There is a thread covering the
 topic at the MOTODEV discussion boards.

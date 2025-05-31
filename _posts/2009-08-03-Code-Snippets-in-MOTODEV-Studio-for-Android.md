@@ -7,8 +7,6 @@ hidden: true
 
 **NOTE:** This blog post was originally hosted on the **Motorola Developers (MOTODEV)**. site. That site is no longer online. I've made every attempt to preserve the original content with only formatting changes to fit this site.
 
----
-
 Application development, whether for desktop or mobile, is 10%
 inspiration and 90% perspiration. MOTODEV Studio for Android has
 features that shift the ratio in favor of inspiration.

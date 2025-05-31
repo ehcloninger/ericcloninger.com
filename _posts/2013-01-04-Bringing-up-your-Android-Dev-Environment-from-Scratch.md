@@ -4,13 +4,12 @@ tags: [Klocwork, Android, Linux, Static-Analysis]
 title: Bringing up your Android Dev Environment from Scratch
 hidden: true
 ---
+
 **NOTE:** This blog post was originally hosted on [Klocwork's Android
 blog](http://blog.klocwork.com/android-development/). At some point
 those posts may not continue to exist. I've made every attempt to
 preserve the original content with only formatting changes to fit this
 site.
-
-----
 
 **by Eric Cloninger**
 
