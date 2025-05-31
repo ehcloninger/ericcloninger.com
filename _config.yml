@@ -16,7 +16,7 @@
 title: EricCloninger.com
 email: ericc@pobox.com
 description: Some guy continuously making messes and cleaning them up again
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: default
 search: true
 favicon: "https://EricCloninger.com/favicon.png" # the favicon for your site
 logo: &logo "https://EricCloninger.com/favicon.png"
@@ -76,6 +76,10 @@ author:
       icon: "fab fa-linkedin"
       url: https://www.linkedin.com/in/ericcloninger/
       target: _blank    
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: https://bsky.app/profile/ericcloninger.bsky.social
+      target: _blank
     - label: "My72MGB.com"
       icon: "fas fa-car"
       url: https://My72MGB.com
@@ -85,6 +89,10 @@ footer:
     - label: "Github"
       icon: "fab fa-fw fa-github-square"
       url: "https://github.com/ehcloninger"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: https://bsky.app/profile/ericcloninger.bsky.social
+      target: _blank
 
 defaults:
   # _posts

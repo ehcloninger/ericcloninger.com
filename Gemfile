@@ -16,5 +16,5 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "kramdown-parser-gfm"
   gem "jekyll-remote-theme"
-#  gem "jekyll-algolia"
+  gem "jekyll-local-theme"
 end
