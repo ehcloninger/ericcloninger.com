@@ -68,10 +68,14 @@ plugins:
   - jekyll-remote-theme
   - jekyll-local-theme
 
+head_scripts:
+  - https://cdn.jsdelivr.net/npm/bsky-embed@0.0.5/dist/bsky-embed.es.js
+
 author:
   name   : "Eric Cloninger"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Some guy continuously making messes and cleaning them up again"
+  bsky_user: "ericcloninger.bsky.social"
   # twitter: "ericc"
   links:
     - label: "LinkedIn"
