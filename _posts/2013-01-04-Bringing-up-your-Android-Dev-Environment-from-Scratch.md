@@ -1,6 +1,6 @@
 ---
 category: blog
-tags: [Klocwork, Android, Linux, Static-Analysis]
+tags: [portfolio, Klocwork, Android]
 title: Bringing up your Android Dev Environment from Scratch
 hidden: true
 ---

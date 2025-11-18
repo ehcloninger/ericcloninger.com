@@ -1,6 +1,6 @@
 ---
 category : blog
-tags : [CodeWarrior, PalmOS, i18n]
+tags : [portfolio, CodeWarrior, PalmOS, i18n]
 title: From The Factory Floor November 1999
 hidden: true
 ---

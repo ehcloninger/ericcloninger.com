@@ -1,6 +1,6 @@
 ---
 category : blog
-tags : [MOTODEV, Android]
+tags : [portfolio, MOTODEV, Android]
 title: MOTODEV Studio 4.0 and the ADT 20 plugins
 hidden: true
 ---

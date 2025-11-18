@@ -1,6 +1,6 @@
 ---
 category : blog
-tags : [MOTODEV, Android]
+tags : [portfolio, MOTODEV, Android]
 title: Public Service Announcement--Back up your keystore
 hidden: true
 ---

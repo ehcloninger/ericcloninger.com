@@ -1,6 +1,6 @@
 ---
 category : blog
-tags : [MOTODEV, Android, Release]
+tags : [portfolio, MOTODEV, Android, Release]
 title: MOTODEV Studio 1.3 is now available
 hidden: true
 ---

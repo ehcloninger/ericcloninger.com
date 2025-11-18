@@ -1,6 +1,6 @@
 ---
 category : blog
-tags : [MOTODEV, Android, Release]
+tags : [portfolio, MOTODEV, Android, Release]
 title: MOTODEV Studio 3.0
 hidden: true
 ---

@@ -1,6 +1,6 @@
 ---
 category : blog
-tags : [Samsung]
+tags : [portfolio, Samsung]
 title: The Samsung Developer Program (SDP) has a new home!
 hidden: true
 ---

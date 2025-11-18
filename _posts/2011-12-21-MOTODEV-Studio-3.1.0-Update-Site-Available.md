@@ -1,6 +1,6 @@
 ---
 category : blog
-tags : [MOTODEV, Android]
+tags : [portfolio, MOTODEV, Android]
 title: MOTODEV Studio 3.1.0 Update Site Available
 hidden: true
 ---

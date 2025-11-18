@@ -1,6 +1,6 @@
 ---
 category : blog
-tags : [MOTODEV, Android, Events]
+tags : [portfolio, MOTODEV, Android]
 title: Who's Speaking at the MOTODEV Summit
 hidden: true
 ---

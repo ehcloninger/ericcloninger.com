@@ -1,6 +1,6 @@
 ---
 category : blog
-tags : [MOTODEV, Android, Release]
+tags : [portfolio, MOTODEV, Android, Release]
 title: Welcome to MOTODEV Studio for Android 1.0
 hidden: true
 ---

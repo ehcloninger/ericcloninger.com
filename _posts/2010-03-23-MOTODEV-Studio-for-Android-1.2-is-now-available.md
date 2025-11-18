@@ -1,6 +1,6 @@
 ---
 category : blog
-tags : [MOTODEV, Android, Release, i18n]
+tags : [portfolio, MOTODEV, Android, Release, i18n]
 title: MOTODEV Studio for Android 1.2 is now available
 hidden: true
 ---

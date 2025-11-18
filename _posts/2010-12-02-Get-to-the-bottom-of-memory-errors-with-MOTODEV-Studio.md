@@ -1,6 +1,6 @@
 ---
 category : blog
-tags : [MOTODEV, Android]
+tags : [portfolio, MOTODEV, Android]
 title: Get to the bottom of memory errors with MOTODEV Studio
 hidden: true
 ---

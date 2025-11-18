@@ -1,6 +1,6 @@
 ---
 category : blog
-tags : [MOTODEV, Android]
+tags : [portfolio, MOTODEV, Android]
 title: MOTODEV Studio 3.0.2 update is now available
 hidden: true
 ---

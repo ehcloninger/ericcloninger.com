@@ -1,6 +1,6 @@
 ---
 category : blog
-tags : [Samsung, Eclipse, Tizen]
+tags : [portfolio, Samsung]
 title: Develop Samsung Gear and Android Apps with the Tizen IDE for Wearable
 hidden: true
 ---

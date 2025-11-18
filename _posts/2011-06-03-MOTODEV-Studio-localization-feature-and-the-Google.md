@@ -1,6 +1,6 @@
 ---
 category : blog
-tags : [MOTODEV, Android, i18n]
+tags : [portfolio, MOTODEV, Android, i18n]
 title: MOTODEV Studio localization feature and the Google Translate API
 hidden: true
 ---

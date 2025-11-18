@@ -1,6 +1,6 @@
 ---
 category : blog
-tags : [MOTODEV, Android, Android-SDK]
+tags : [portfolio, MOTODEV, Android]
 title: Notice about Android SDK 2.3
 hidden: true
 ---

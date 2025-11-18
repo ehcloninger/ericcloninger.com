@@ -1,6 +1,6 @@
 ---
 category : blog
-tags : [Samsung]
+tags : [portfolio, Samsung]
 title: Get Answers on the Go with DiscourseHub
 hidden: true
 ---

@@ -1,6 +1,6 @@
 ---
 category : blog
-tags : [MOTODEV, Android]
+tags : [portfolio, MOTODEV, Android]
 title: Code Snippets in MOTODEV Studio for Android
 hidden: true
 ---

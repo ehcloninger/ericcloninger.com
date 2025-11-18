@@ -8,11 +8,9 @@ Dear Hiring Manager;
 
 Thank you for taking the time to review my qualifications. If you would prefer a resume to this site, you can find a copy [here](/assets/files/portfolio/Eric-Cloninger-Resume.pdf), while my LinkedIn profile is [here](https://www.linkedin.com/in/ericcloninger/).
 
-**NOTE:** As of April 2023, I've started a new role and I'm not looking for a new role.
-
 I am interested in a position as a Senior Product Manager, Developer Relations Manager, or other roles requiring a technical background. I have more than 30 years of experience in the software industry and a history of delivering and supporting products in these roles.
 
-For the past 15 years, I&apos;ve been a Senior Product/Project Manager, focused on developer-focused products, developer relations, and mobile devices. During this time, I&apos;ve been heavily involved in the Eclipse and Android open-source communities. I am a skilled communicator, having authored many technical articles and as a frequent presenter at developer conferences. These activities can be seen in the sections below.
+For the past 20 years, I&apos;ve been a Senior Product/Project Manager, focused on developer-focused products, developer relations, and mobile devices. During this time, I&apos;ve been heavily involved in the Eclipse and Android open-source communities. I am a skilled communicator, having authored many technical articles and as a frequent presenter at developer conferences. These activities can be seen in the sections below.
 
 Prior to Product Management, I developed software for 18 years. I am experienced at developing desktop and device software with C, C++, and Java. I am experienced in web server management, self-hosted and in the cloud as well as a solid understanding of web protocols. I&apos;ve contributed to several popular O&apos;Reilly technical books on Palm OS programming and Windows.
 
@@ -30,7 +28,8 @@ Eric Cloninger
 
 | Dates | Role | Employer |
 | ----- | ---- | -------- |
-| 4/2023 - Present | Lead, Developer Docs and Resources | [Analog Devices](#analog-devices)
+| 7/2025 - Present | Self | [Consultant](#consultant)
+| 4/2023 - 3/2025 | Lead, Developer Docs and Resources | [Analog Devices](#analog-devices)
 | 3/2018 - 4/2023 | Lead, Developer Relations | [Samsung Electronics](#samsung-electronics) |
 | 7/2017 - 2/2018 | Consultant | [Oil &amp; Gas Industry](#self) |
 | 9/2015 - 4/2016 | Sr. Product Manager | [Cigital, Inc.](#cigital-inc) |
@@ -178,47 +177,24 @@ I frequently author blog posts as a function of my work. These are some of the m
 
 ## Primary Job Duties
 
+### Consultant
+Taking on small projects within my network. Proof-of-concept work on a website to bring a large historical data set online. Required learning OpenCV to identify relevant sections of the analog data and convert it to searchable text. Project is developed primarily in Python and hosted on AWS.
+
 ### Analog Devices
 Working remotely, traveling 1 or 2 times per month.
 
-**Delivering on the Future.** The second hire for a new software-focused 
-Developer Relations team at Analog Devices, a well-known semiconductor and
-sensor manufacturer. Tasked with creating content and experiences for a
-new audience segment that needs support throughout the tech stack.
+**Delivering on the Future.** The second hire for a new software-focused Developer Relations team at Analog Devices, a well-known semiconductor and sensor manufacturer. Tasked with creating content and experiences for a new audience segment that needs support throughout the tech stack.
 
 ### Samsung Electronics
 Working remotely, traveling 1 or 2 times per month (prior to COVID).
 
-**Delivering Relevant and Timely Content.** Managing a team of internal
-and external content creators and developer advocates in maintaining a
-constant pipeline of useful information for subscribers. Utilizing
-analytic data to find optimal methods to deliver content, while engaging
-with audiences through social media, online events, and in-person events
-(prior to 2020).
+**Delivering Relevant and Timely Content.** Managing a team of internal and external content creators and developer advocates in maintaining a constant pipeline of useful information for subscribers. Utilizing analytic data to find optimal methods to deliver content, while engaging with audiences through social media, online events, and in-person events (prior to 2020).
 
-**Forward Facing.** Led the effort to renovate the aging Samsung
-Developers site from one that had poor performance and fragmented
-responsibilities to one that utilizes modern development methods and
-revision-based content control with clearly defined roles for content
-creators. The resulting site was delivered in January 2020 and continues
-to improve.
+**Forward Facing.** Led the effort to renovate the aging Samsung Developers site from one that had poor performance and fragmented responsibilities to one that utilizes modern development methods and revision-based content control with clearly defined roles for content creators. The resulting site was delivered in January 2020 and continues to improve.
 
-**Technical Program Management.** Delivered a strategic web
-infrastructure overhaul on time and on budget. Project involved 5
-external vendors and 4 internal teams in 6 time zones across 3
-continents. This project required extensive cooperation, as each team
-had responsibilities that relied on each other. The timing and order of
-deployment occurred in a 6 hour window with coordination from a
-conference room in Mountain View, CA. Deployment occurred with minimal
-interruption to the user base and no loss of functionality in the
-migration.
+**Technical Program Management.** Delivered a strategic web infrastructure overhaul on time and on budget. Project involved 5 external vendors and 4 internal teams in 6 time zones across 3 continents. This project required extensive cooperation, as each team had responsibilities that relied on each other. The timing and order of deployment occurred in a 6 hour window with coordination from a conference room in Mountain View, CA. Deployment occurred with minimal interruption to the user base and no loss of functionality in the migration.
 
-**Keep the Lights On.** Managing server infrastructure for parts of the
-Samsung Developers and Samsung Developer Conference web sites. This
-involves tweaking system performance, monitoring system availability,
-configuring DNS and web server software, managing security processes,
-and other tasks necessary to keep a site with 350,000 monthly active
-users operating.
+**Keep the Lights On.** Managing server infrastructure for parts of the Samsung Developers and Samsung Developer Conference web sites. This involves tweaking system performance, monitoring system availability, configuring DNS and web server software, managing security processes, and other tasks necessary to keep a site with 350,000 monthly active users operating.
 
 ### Self
 
@@ -226,47 +202,21 @@ Worked remotely, traveling to client site during project definition, milestones,
 
 ### Cigital, Inc.
 
-Worked remotely, traveling as needed to corporate offices and customer
-sites.
+Worked remotely, traveling as needed to corporate offices and customer sites. My wife was diagnosed with cancer 2 months after I started this role and my supervisors were very supportive. I left the company when she passed away, so there wasn't much time to make a noticeable impact.
 
-**Build a New Product Line.** Worked with a team of developers in the
-US, UK, and India to create automated mobile security tools for medium
-to large enterprise customers. Engagements for mobile security were
-doubling every 4 months and Cigital needed automated processes to
-replace slow and inefficient manual testing. My role was to help the
-mobile technical team define the automation and logging tools that
-interacted with the customer portal, by designing the data elements and
-APIs needed to handle each test sequence.
+**Build a New Product Line.** Worked with a team of developers in the US, UK, and India to create automated mobile security tools for medium to large enterprise customers. Engagements for mobile security were doubling every 4 months and Cigital needed automated processes to replace slow and inefficient manual testing. My role was to help the mobile technical team define the automation and logging tools that interacted with the customer portal, by designing the data elements and APIs needed to handle each test sequence.
 
 ### Samsung Telecommunications
 
-Worked remotely, traveled 1 or 2 times per month to corporate offices
-and development conferences.
+Worked remotely, traveled 1 or 2 times per month to corporate offices and development conferences.
 
-**Technical Product Management.** Drove adoption of the Samsung Gear
-line of smartwatches by increasing ecosystem offerings. Recruit and
-educate third-party developers on the tools and practices used to create
-smartwatch apps. Returning community feedback to internal teams in a
-constructive manner in order to provide a better experience for
-developers and consumers.
+**Technical Product Management.** Drove adoption of the Samsung Gear line of smartwatches by increasing ecosystem offerings. Recruit and educate third-party developers on the tools and practices used to create smartwatch apps. Returning community feedback to internal teams in a constructive manner in order to provide a better experience for developers and consumers.
 
-**Ensure Product Quality.** Created Best Practices and release
-management requirements for internal teams that create tools and SDKs
-for external developers. The purpose was to improve the quality in
-releases from teams who might not understand what external developers
-require.
+**Ensure Product Quality.** Created Best Practices and release management requirements for internal teams that create tools and SDKs for external developers. The purpose was to improve the quality in releases from teams who might not understand what external developers require.
 
-**Improve Partner Support.** Developed *emulator-only* Android system
-images based on Samsung hardware. These were used to allow internal
-teams to support partner developers in regions where local hardware
-isn't available.
+**Improve Partner Support.** Developed *emulator-only* Android system images based on Samsung hardware. These were used to allow internal teams to support partner developers in regions where local hardware isn't available.
 
-**Empower Developers to Succeed**. Developed self-help solutions for
-third-party developers targeting Samsung Android and Gear mobile
-devices. For this project, I evaluated cloud-based learning and support
-tools, such as MindTouch and Zendesk to incorporate them into a new
-developer portal. Created online content to address the highest priority
-issues facing developers in the Samsung developer ecosystem.
+**Empower Developers to Succeed**. Developed self-help solutions for third-party developers targeting Samsung Android and Gear mobile devices. For this project, I evaluated cloud-based learning and support tools, such as MindTouch and Zendesk to incorporate them into a new developer portal. Created online content to address the highest priority issues facing developers in the Samsung developer ecosystem.
 
 ### Coverity
 
@@ -276,210 +226,71 @@ Worked remotely as a contractor, traveled as necessary to trade shows and corpor
 
 ### Klocwork, Inc
 
-Worked remotely, traveling 1 or 2 times per month to the corporate
-office in Ottawa and to client sites to support Enterprise Sales team.
+Worked remotely, traveling 1 or 2 times per month to the corporate office in Ottawa and to client sites to support Enterprise Sales team.
 
-**Transitioned Engineering Organization to Agile.** Throughout 2013,
-Product Management and the Engineering leaders converted the existing
-development processes from waterfall to a Scrum-based process. This
-process involved converting the internal bug-tracking process based on
-GNATS to use a modern tool. We chose JIRA after evaluating several
-alternatives. Then Product Management began the process of migrating 8
-years of customer requests into prioritized queues, often relying on a
-Kanban wall of sticky notes. During this time, the Engineering teams
-were still delivering products on a 1 year schedule, but were using the
-Product Management priorities and were delivering internal releases
-aligned to 3-week sprints.
+**Transitioned Engineering Organization to Agile.** Throughout 2013, Product Management and the Engineering leaders converted the existing development processes from waterfall to a Scrum-based process. This process involved converting the internal bug-tracking process based on GNATS to use a modern tool. We chose JIRA after evaluating several alternatives. Then Product Management began the process of migrating 8 years of customer requests into prioritized queues, often relying on a Kanban wall of sticky notes. During this time, the Engineering teams were still delivering products on a 1 year schedule, but were using the Product Management priorities and were delivering internal releases aligned to 3-week sprints.
 
-**Competitive analysis of commercial and open-source products.** As part
-of the ongoing need for information about our competitors, I set up a
-competitive analysis lab using VMWare ESX servers with Linux and Windows
-virtual machines for installing, testing, and analyzing products in a
-consistent manner. Focused on the primary commercial competitors of the
-company's two products as well as open-source projects to give Account
-Managers information about how to sell when faced with a competitor at
-an account. Analyzed public information about competitors and updated
-competitive information as part of the product release activities.
+**Competitive analysis of commercial and open-source products.** As part of the ongoing need for information about our competitors, I set up a competitive analysis lab using VMWare ESX servers with Linux and Windows virtual machines for installing, testing, and analyzing products in a consistent manner. Focused on the primary commercial competitors of the company's two products as well as open-source projects to give Account Managers information about how to sell when faced with a competitor at an account. Analyzed public information about competitors and updated competitive information as part of the product release activities.
 
-**Product Release activities.** Worked on two product releases cycles
-for two different products. One was a new product, requiring new
-marketing content, sales tools and competitive analysis. The other
-release was a major update to Klocworks' primary product--Insight that
-required updated marketing collateral and event support (webinars, trade
-shows).
+**Product Release activities.** Worked on two product releases cycles for two different products. One was a new product, requiring new marketing content, sales tools and competitive analysis. The other release was a major update to Klocworks' primary product--Insight that required updated marketing collateral and event support (webinars, trade shows).
 
-**Voice of the customer.** In my role, I cultivated relationships with
-many of our customers. Two of these relationships were responsible for
-10% of annual revenue, while others were smaller customers who pushed
-the boundaries of the products' abilities. I built engineering
-requirements that would satisfy the needs of large and small customers,
-consistent with the company's product strategy.
+**Voice of the customer.** In my role, I cultivated relationships with many of our customers. Two of these relationships were responsible for 10% of annual revenue, while others were smaller customers who pushed the boundaries of the products' abilities. I built engineering requirements that would satisfy the needs of large and small customers, consistent with the company's product strategy.
 
 ### Motorola Mobility
 
-Worked remotely, traveling quarterly to department offices in Sunnyvale,
-CA
+Worked remotely, traveling quarterly to department offices in Sunnyvale, CA
 
-**Build and grow a product.** I managed the creation, delivery, and
-launch activities for Motorola's development tools on Windows, Linux,
-and Mac OS X. The primary product was a branded version of the Eclipse
-IDE, called MOTODEV Studio, that was focused on Android application
-developers. Announced in the Summer of 2009, the user base increased
-steadily, ending with over 40,000 unique downloads per month. MOTODEV
-Studio drove most of the traffic to the Motorola Developer site from
-2010 through Q4 2012.
+**Build and grow a product.** I managed the creation, delivery, and launch activities for Motorola's development tools on Windows, Linux, and Mac OS X. The primary product was a branded version of the Eclipse IDE, called MOTODEV Studio, that was focused on Android application developers. Announced in the Summer of 2009, the user base increased steadily, ending with over 40,000 unique downloads per month. MOTODEV Studio drove most of the traffic to the Motorola Developer site from 2010 through Q4 2012.
 
-I worked to develop a profile of our users by reviewing server logs,
-Google Analytics, and annual surveys. I expanded the user base of the
-product by finding compatible distribution channels, such as the Eclipse
-Marketplace. Worked on advertising campaigns at popular developer sites
-to reach new audiences.
+I worked to develop a profile of our users by reviewing server logs, Google Analytics, and annual surveys. I expanded the user base of the product by finding compatible distribution channels, such as the Eclipse Marketplace. Worked on advertising campaigns at popular developer sites to reach new audiences.
 
-**Leadership.** Led an off-shore engineering team located primarily in
-Brazil with some contributors in China. I acted in the role of the
-product owner in an agile process. The development team delivered new
-releases every 3 to 4 months, never missing a delivery date.
+**Leadership.** Led an off-shore engineering team located primarily in Brazil with some contributors in China. I acted in the role of the product owner in an agile process. The development team delivered new releases every 3 to 4 months, never missing a delivery date.
 
-**Evangelize the product.** I created and delivered 24 presentations on
-mobile development at 17 developer events between 2008 and 2012. Some of
-the topics were related to Motorola development tools and others related
-to the Eclipse Open-source projects that Motorola sponsored. At the
-events where Motorola was also an exhibitor or sponsor, I acted as our
-representative as well as worked in the booth.
+**Evangelize the product.** I created and delivered 24 presentations on mobile development at 17 developer events between 2008 and 2012. Some of the topics were related to Motorola development tools and others related to the Eclipse Open-source projects that Motorola sponsored. At the events where Motorola was also an exhibitor or sponsor, I acted as our representative as well as worked in the booth.
 
-**Open-source leadership.** I led several open source projects at the
-Eclipse Foundation that were focused on mobile application development.
-Motorola was a member of the Eclipse Pulsar Working Group and I handled
-many of the technical duties related to this group. I collaborated with
-developers from other companies, including several that were
-competitors, toward the goal of having a language- and platform-neutral
-toolset for application developers. As a project leader, I reviewed,
-organized, and presented talks on developing for mobile devices and
-embedded systems with the Eclipse IDE.
+**Open-source leadership.** I led several open source projects at the Eclipse Foundation that were focused on mobile application development. Motorola was a member of the Eclipse Pulsar Working Group and I handled many of the technical duties related to this group. I collaborated with developers from other companies, including several that were competitors, toward the goal of having a language- and platform-neutral toolset for application developers. As a project leader, I reviewed, organized, and presented talks on developing for mobile devices and embedded systems with the Eclipse IDE.
 
-**Manage the End-of-Life.** Periodically, we had projects and products
-that were no longer relevant. I led end-of-life for several services and
-product teams. In some cases, this meant the redeployment or release of
-employees and contractors. My final project at Motorola was the shutdown
-of the entire Motorola Developer site--transferring IP to appropriate
-places, writing statements for partners and third-party developers, and
-ensuring that linked content from other sites would not get lost.
+**Manage the End-of-Life.** Periodically, we had projects and products that were no longer relevant. I led end-of-life for several services and product teams. In some cases, this meant the redeployment or release of employees and contractors. My final project at Motorola was the shutdown of the entire Motorola Developer site--transferring IP to appropriate places, writing statements for partners and third-party developers, and ensuring that linked content from other sites would not get lost.
 
 ### Wind River Systems
 
-Worked remotely, traveling quarterly to company headqarters in Alameda,
-CA
+Worked remotely, traveling quarterly to company headqarters in Alameda, CA
 
-**Instrument of Change.** Guided development of Wind River Workbench, a
-branded version of the Eclipse IDE, focused on embedded development.
-Taking input from customers, internal stakeholders, and open-source
-projects, I built requirements and negotiated their inclusion into the
-product.
+**Instrument of Change.** Guided development of Wind River Workbench, a branded version of the Eclipse IDE, focused on embedded development. Taking input from customers, internal stakeholders, and open-source projects, I built requirements and negotiated their inclusion into the product.
 
-**Growing the Business.** As part of a goal to move Wind River into
-strategic accounts with IBM, we entered into the Ready for Rational
-program. My part in this was to handle all the technical details of the
-certification process. My team and I worked to ensure that our product
-met the numerous quality and best practice requirements demanded by the
-IBM program. To satisfy the requirements for certification, I had to
-create new engineering requirements that were included in the next
-mid-year update.
+**Growing the Business.** As part of a goal to move Wind River into strategic accounts with IBM, we entered into the Ready for Rational program. My part in this was to handle all the technical details of the certification process. My team and I worked to ensure that our product met the numerous quality and best practice requirements demanded by the IBM program. To satisfy the requirements for certification, I had to create new engineering requirements that were included in the next mid-year update.
 
-**Lead Cross-Functional Teams.** The Chief Operating Officer was
-concerned about the unexpected growth in call-center incidents that
-required more qualified Customer Service staff. I was tasked to
-understand the nature of these incidents and then create a plan to
-address them. I surveyed several years of call center data and
-post-support surveys and identified a small number of situations that
-accounted for nearly 60% of all incidents. These issues were addressed
-in future releases, leading to reduced call volume and overall
-improvement in customer satisfaction.
+**Lead Cross-Functional Teams.** The Chief Operating Officer was concerned about the unexpected growth in call-center incidents that required more qualified Customer Service staff. I was tasked to understand the nature of these incidents and then create a plan to address them. I surveyed several years of call center data and post-support surveys and identified a small number of situations that accounted for nearly 60% of all incidents. These issues were addressed in future releases, leading to reduced call volume and overall improvement in customer satisfaction.
 
 ### Advanced Financial Solutions
 
-Worked remotely and onsite, commuting to engineering office in Norman,
-OK
+Worked remotely and onsite, commuting to engineering office in Norman, OK
 
-**Address Product Defects.** I reported to the CTO, handling improvement
-projects to the company's product line--payment processing for banks. I
-performed a security audit and uncovered a serious login security flaw
-related to how account names and passwords were transmitted and stored.
+**Address Product Defects.** I reported to the CTO, handling improvement projects to the company's product line--payment processing for banks. I performed a security audit and uncovered a serious login security flaw related to how account names and passwords were transmitted and stored.
 
-**Drive Organizational Change.** I identified that many of the problems
-with the product had an underlying cause in the way engineering did its
-job. Developers would check in code with compiler warnings and without
-peer review. I argued that the first change should be to clean up all
-code to compile at the *lint - 1* (/W3) and force developers to treat
-warnings as errors (/WX). The next step of formal code reviews before
-checkin occurred after I left.
+**Drive Organizational Change.** I identified that many of the problems with the product had an underlying cause in the way engineering did its job. Developers would check in code with compiler warnings and without peer review. I argued that the first change should be to clean up all code to compile at the *lint - 1* (/W3) and force developers to treat warnings as errors (/WX). The next step of formal code reviews before checkin occurred after I left.
 
 ### Palm
 
-Worked remotely from Austin, TX, traveling quarterly to company
-headquarters in Sunnyvale, CA
+Worked remotely from Austin, TX, traveling quarterly to company headquarters in Sunnyvale, CA
 
-**Build a Happy Customer.** I was one of the leads on the Development
-Tools team, creating tools for the Palm SDK that were used by thousands
-of third-party developers to create their own apps for Palm OS. We
-created GUI and automated tools that ran on Windows and MacOS.
+**Build a Happy Customer.** I was one of the leads on the Development Tools team, creating tools for the Palm SDK that were used by thousands of third-party developers to create their own apps for Palm OS. We created GUI and automated tools that ran on Windows and MacOS.
 
-**Resolve Internal Tools Needs.** As new features were added to Palm OS,
-many needed to be exposed to external developers. Some were GUI widgets
-and others were configuration settings. I worked with the internal teams
-to adapt our tools for these needs. In one example, I discovered an
-inefficiency in the way binary resources were stored in our ROM that
-saved over 2K of ROM space. For a device with only 128K of ROM to begin
-with, this was a significant find.
+**Resolve Internal Tools Needs.** As new features were added to Palm OS, many needed to be exposed to external developers. Some were GUI widgets and others were configuration settings. I worked with the internal teams to adapt our tools for these needs. In one example, I discovered an inefficiency in the way binary resources were stored in our ROM that saved over 2K of ROM space. For a device with only 128K of ROM to begin with, this was a significant find.
 
-**See Beyond the Horizon.** In 2002, we realized that Palm OS developers
-needed a better environment than those provided by the many non-standard
-IDEs and homegrown tools. We researched and advocated for Palm to become
-a member of what was to become the Eclipse Foundation. IBM had recently
-spun the Eclipse IDE out of their WebSphere team and Palm was one of the
-first mobile/embedded companies to build a new kind of development tool
-on the platform. Today, Eclipse is the de-facto standard for Java
-development and is widely used by embedded companies to provide a
-quality and consistent experience to their internal and third-party
-developers.
+**See Beyond the Horizon.** In 2002, we realized that Palm OS developers needed a better environment than those provided by the many non-standard IDEs and homegrown tools. We researched and advocated for Palm to become a member of what was to become the Eclipse Foundation. IBM had recently spun the Eclipse IDE out of their WebSphere team and Palm was one of the first mobile/embedded companies to build a new kind of development tool on the platform. Today, Eclipse is the de-facto standard for Java development and is widely used by embedded companies to provide a quality and consistent experience to their internal and third-party developers.
 
-**Growth and Responsibility.** Palm had no presence in Austin, TX in
-1999. I worked with managers at HQ to locate a facility and build it out
-for the employees we expected to hire in Austin. When a facility was
-located, I was the local manager who handled all the logistics. I also
-coordinated much of the hiring of engineering staff until a permanent
-local administrative assistant was hired.
+**Growth and Responsibility.** Palm had no presence in Austin, TX in 1999. I worked with managers at HQ to locate a facility and build it out for the employees we expected to hire in Austin. When a facility was located, I was the local manager who handled all the logistics. I also coordinated much of the hiring of engineering staff until a permanent local administrative assistant was hired.
 
 ### Metrowerks
 
-**Pivot the Company.** I started at Metrowerks as a developer who had
-deep technical experience with (classic) Mac development, Windows
-development, and the Microsoft Foundation Classes. At the time, the
-Metrowerks CodeWarrior tools were praised by Mac developers for helping
-them make the transition from the M68K chip to the PowerPC chip.
-Metrowerks wanted their products to run on Windows and MacOS at the same
-time. As part of a focused team, we built the Windows version of
-CodeWarrior that used the same code base as the Mac OS version and by
-the time we went to market, it was built with the CodeWarrior compiler
-instead of Visual C++. This was the beginning of a new chapter for
-Metrowerks in the mid-1990's.
+**Pivot the Company.** I started at Metrowerks as a developer who had deep technical experience with (classic) Mac development, Windows development, and the Microsoft Foundation Classes. At the time, the Metrowerks CodeWarrior tools were praised by Mac developers for helping them make the transition from the M68K chip to the PowerPC chip. Metrowerks wanted their products to run on Windows and MacOS at the same time. As part of a focused team, we built the Windows version of CodeWarrior that used the same code base as the Mac OS version and by the time we went to market, it was built with the CodeWarrior compiler instead of Visual C++. This was the beginning of a new chapter for Metrowerks in the mid-1990's.
 
-**Build on New Foundations.** Once CodeWarrior was working on Mac OS and
-Windows, the Company Leaders looked for opportunities to partner with
-semiconductor, operating system, and hardware manufacturers. The
-solution was to provide a turn-key solution for their internal and
-external developers. Metrowerks would work with the partner to create a
-product, which would then be sold for thousands of dollars less than
-competing products. I led teams focused on PDAs, which at the time there
-were several strong candidates--Palm OS, Windows CE, Psion (Symbian),
-and Magic Cap. We worked with partners on all these platforms. The most
-successful venture was with Palm Computing and I led this team. For
-several years, this product brought in \$2-3 million per year on a
-budget of 3 or 4 developers.
+**Build on New Foundations.** Once CodeWarrior was working on Mac OS and Windows, the Company Leaders looked for opportunities to partner with semiconductor, operating system, and hardware manufacturers. The solution was to provide a turn-key solution for their internal and external developers. Metrowerks would work with the partner to create a product, which would then be sold for thousands of dollars less than competing products. I led teams focused on PDAs, which at the time there were several strong candidates--Palm OS, Windows CE, Psion (Symbian), and Magic Cap. We worked with partners on all these platforms. The most successful venture was with Palm Computing and I led this team. For several years, this product brought in \$2-3 million per year on a budget of 3 or 4 developers.
 
 ### Miscellaneous
 
-Software development on Windows, DEC VMS, and Classic Mac OS using C,
-C++, and Pascal.
+Software development on Windows, DEC VMS, and Classic Mac OS using C, C++, and Pascal.
 
 ### Oklahoma State University
 

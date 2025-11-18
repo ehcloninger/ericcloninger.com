@@ -1,6 +1,6 @@
 ---
 category : blog
-tags : [MOTODEV, Android, Static-Analysis]
+tags : [portfolio, MOTODEV]
 title: MOTODEV App Validator and Motorola XOOM
 hidden: true
 ---

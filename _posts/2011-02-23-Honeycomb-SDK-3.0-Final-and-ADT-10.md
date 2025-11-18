@@ -1,6 +1,6 @@
 ---
 category : blog
-tags : [MOTODEV, Android, Android-SDK]
+tags : [portfolio, MOTODEV, Android]
 title: Honeycomb SDK 3.0 Final and ADT 10
 hidden: true
 ---

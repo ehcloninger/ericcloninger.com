@@ -1,6 +1,6 @@
 ---
 category : blog
-tags : [Klocwork, Android, Java, Linux]
+tags : [portfolio, Klocwork, Android]
 title: Use the correct Java JDK for Android builds
 hidden: true
 ---

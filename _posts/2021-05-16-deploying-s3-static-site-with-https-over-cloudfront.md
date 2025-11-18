@@ -2,7 +2,7 @@
 categories :
   - blog
 tags : 
-  - howto
+  - [portfolio, web]
 title: "Deploying a Secure (HTTPS) AWS S3 Static Site Over CloudFront"
 toc: true
 ---

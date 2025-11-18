@@ -1,6 +1,6 @@
 ---
 category : blog
-tags : [MOTODEV, Android, i18n]
+tags : [portfolio, MOTODEV, Android, i18n]
 title: MOTODEV Studio, Your Way
 hidden: true
 ---

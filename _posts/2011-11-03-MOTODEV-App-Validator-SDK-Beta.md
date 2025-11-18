@@ -1,6 +1,6 @@
 ---
 category : blog
-tags : [MOTODEV, Android, Static-Analysis]
+tags : [portfolio, MOTODEV, Android]
 title: MOTODEV App Validator SDK Beta
 hidden: true
 ---

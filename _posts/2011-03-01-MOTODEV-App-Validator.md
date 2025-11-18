@@ -1,6 +1,6 @@
 ---
 category : blog
-tags : [MOTODEV, Android, Release, Static-Analysis, i18n]
+tags : [portfolio, MOTODEV, Android, i18n]
 title: MOTODEV App Validator
 hidden: true
 ---
