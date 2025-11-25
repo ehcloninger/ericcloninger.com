@@ -84,6 +84,10 @@ author:
       icon: "fab fa-linkedin"
       url: https://www.linkedin.com/in/ericcloninger/
       target: _blank    
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: https://github.com/ehcloninger/
+      target: _blank    
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
       url: https://bsky.app/profile/ericcloninger.bsky.social
