@@ -68,7 +68,7 @@ Most of my open source work predates Github, although I will occasionally fork/p
 | 2014 | Samsung Developer Conference | Samsung | Gear S Primer – What you Need to Know to Get Started |
 | &nbsp; | Online Tutorial | Samsung | Develop Samsung Gear and Android Apps with the Tizen IDE for Wearable |
 | &nbsp; | Live Webinar | Klocwork | Secure and Robust Android Development using Static Code Analysis |
-| 2012 | EclipseCon | Eclipse Sequoyah Project | [Android 101](https://docs.google.com/file/d/0B-Sb6dhnjo5lNExRYzVWaTdUeEs1WnUxcGtqZmc3dw/edit) |
+| 2012 | EclipseCon | Eclipse Sequoyah Project | Android 101 |
 | 2011 | EclipseCon | Motorola Mobility | Static analysis for quality mobile applications |
 | &nbsp; | On-demand Webinar | Motorola Mobility | Improving Enterprise App Quality with MOTODEV App Validator |
 | &nbsp; | O'Reilly Android Open Conference | Eclipse Foundation | Eclipse For Android C/C++ Developers |
