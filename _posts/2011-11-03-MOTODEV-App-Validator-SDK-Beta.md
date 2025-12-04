@@ -63,7 +63,7 @@ installation experience is typical for Eclipse users and is explained in
 detail in the *install guide* .
 
 ![Installing App Validator SDK into Eclipse
-Classic](/assets/images/{{ page.id }}/original(1).jpg "Installing App Validator SDK into Eclipse Classic")
+Classic](/assets/images{{ page.id }}/original(1).jpg "Installing App Validator SDK into Eclipse Classic")
 
 The SDK is in beta form. We intend to spend some time taking feedback on
 our *discussion boards* , so if you use it, please let us know what we

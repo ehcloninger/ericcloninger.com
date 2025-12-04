@@ -37,7 +37,7 @@ Eclipse mechanism to connect to the MOTODEV update server. Instead of
 looking all over the Internet for different update packages, the MOTODEV
 site has all the packages you need in one place.
 
-![image03.png](/assets/images/{{ page.id }}/original(1).jpg)
+![image03.png](/assets/images{{ page.id }}/original(1).jpg)
 
 If you want to make a clean start with Studio 3.0, you can download the
 full installer package. If you are a "power user" and already use
@@ -88,7 +88,7 @@ the ability to view YouTube videos from our playlists within the IDE.
 We're planning to add a series of videos on using the tools and
 developing for Android.
 
-![image01.png](/assets/images/{{ page.id }}/original(2).jpg)
+![image01.png](/assets/images{{ page.id }}/original(2).jpg)
 
 ### No Boring Code
 
@@ -102,7 +102,7 @@ writing all those adapters to toggle a variable when a checkbox is
 pressed, just design your layout, generate the code, and enter your
 business logic.
 
-![image00.png](/assets/images/{{ page.id }}/original(3).jpg)
+![image00.png](/assets/images{{ page.id }}/original(3).jpg)
 
 We are working on a video to show this feature in action. In the mean
 time, give it a try with a blank project and see how it works for you.
@@ -159,7 +159,7 @@ In previous releases, users were forced to know the command line
 switches for a particular function. Now the App Validator has a nice GUI
 preference page.
 
-![image02.png](/assets/images/{{ page.id }}/original(4).jpg)
+![image02.png](/assets/images{{ page.id }}/original(4).jpg)
 
 Developers who use the database feature a lot should try out the updated
 database creation wizard. Now, you can create databases and tables from

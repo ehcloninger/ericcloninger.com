@@ -43,7 +43,7 @@ the MOTODEV update site. Unlike the previous versions of MOTODEV Studio,
 which went to a combination of update sites at Motorola, Google, and
 Eclipse.org.
 
-![](/assets/images/{{ page.id }}/original.png)
+![](/assets/images{{ page.id }}/original.png)
 
 You can also download the Helios update package from our downloads site
 and manually apply the update as a local archive. Finally, you could
@@ -92,7 +92,7 @@ To enter your own key, go to "Preferences-&gt;MOTODEV Studio for
 Android". If you don't provide your own key, you run the risk of getting
 an error message when you submit your strings for translation.
 
-![](/assets/images/{{ page.id }}/original(1).png)
+![](/assets/images{{ page.id }}/original(1).png)
 
 We will continue to monitor the changes to this API and see how we can
 adapt the tools to work. Google claims this was the result of

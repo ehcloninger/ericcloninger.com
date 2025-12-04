@@ -29,7 +29,7 @@ click on the item in the Snippets view and the code is entered at the
 cursor. Voilà, it's that easy!
 
 ![Code Snippets in MOTODEV Studio for
-Android](/assets/images/{{ page.id }}/3787036964_b283ae92c1.jpg)
+Android](/assets/images{{ page.id }}/3787036964_b283ae92c1.jpg)
 
 Code snippets are just pieces of code and not a full application, so you
 will often need to replace default values or include other necessary
@@ -46,7 +46,7 @@ You can add your own bits of code to the Code Snippets View and share
 with your friends, co-workers and those guys on the discussion boards.
 
 ![Code Snippets in MOTODEV Studio for
-Android](/assets/images/{{ page.id }}/3787036994_4e90a11e67.jpg)
+Android](/assets/images{{ page.id }}/3787036994_4e90a11e67.jpg)
 
 To create your own snippets, start by clicking in the middle of the
 Snippets view and choose "Customize". This will bring up a dialog where
@@ -60,7 +60,7 @@ category called "Eric's Snippets" by right-clicking in the snippet list
 and choosing "New-&gt;New Category".
 
 ![Code Snippets in MOTODEV Studio for
-Android](/assets/images/{{ page.id }}/3787037028_445030a17b_o.jpg)
+Android](/assets/images{{ page.id }}/3787037028_445030a17b_o.jpg)
 
 Once you've created a category, you can add individual snippets by
 right-clicking on the category name and choosing "New-&gt;New Item".
@@ -69,7 +69,7 @@ at the bottom. After pressing "OK", you can access your new template
 from the Code Snippets view.
 
 ![Code Snippets in MOTODEV Studio for
-Android](/assets/images/{{ page.id }}/3787037052_33520f4113.jpg)
+Android](/assets/images{{ page.id }}/3787037052_33520f4113.jpg)
 
 If you have values that need to be entered by the user of your template,
 you can add them in the Variables editor on this screen. Simply create a

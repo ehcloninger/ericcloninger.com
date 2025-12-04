@@ -252,7 +252,7 @@ program resources. The application should look familiar to anyone who
 has used Constructor for PowerPlant. **Figure 1** shows the form window,
 which is where most editing takes place.
 
-![](/assets/images/{{ page.id }}/fig01.gif)
+![](/assets/images{{ page.id }}/fig01.gif)
 
 ***Figure 1.** Constructor for PalmPilot "form" editor.*
 

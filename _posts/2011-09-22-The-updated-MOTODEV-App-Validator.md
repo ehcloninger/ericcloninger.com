@@ -15,7 +15,7 @@ to announce that we've made those changes available to the *online
 version of the App Validator* as well.
 
 ![Screenshot - 9_22_2011 , 11_14_46
-AM.png](/assets/images/{{ page.id }}/original(1).jpg)
+AM.png](/assets/images{{ page.id }}/original(1).jpg)
 
 If you aren't aware of this feature of the MOTODEV web site, you should
 be. The MOTODEV App Validator is a static analysis tool that inspects
@@ -46,7 +46,7 @@ the "Browse" button on the screen and locate the file with an Open File
 dialog.?
 
 ![Screenshot - 9_22_2011 , 11_14_45
-AM.png](/assets/images/{{ page.id }}/original(2).jpg)
+AM.png](/assets/images{{ page.id }}/original(2).jpg)
 
 The new online version now gives you the ability to configure settings
 in a way that is similar to the version in MOTODEV Studio. Many of the
@@ -56,7 +56,7 @@ you are presented with the following screen that allows you to configure
 the settings that best suit your needs.
 
 ![Screenshot - 9_22_2011 , 11_14_57
-AM.png](/assets/images/{{ page.id }}/original(3).jpg)
+AM.png](/assets/images{{ page.id }}/original(3).jpg)
 
 From this screen, you can choose which checkers you wish to run. For
 example, if you don't want to see messages about missing strings, you
@@ -80,7 +80,7 @@ web form. After a few seconds, you will see the results appear, similar
 to those shown below.
 
 ![Screenshot - 9_22_2011 , 11_50_37
-AM.png](/assets/images/{{ page.id }}/original(4).jpg)
+AM.png](/assets/images{{ page.id }}/original(4).jpg)
 
 The results show up, as before, in a list at the bottom of the page. We
 limit the size of the output to 10,000 results to keep bandwidth down.

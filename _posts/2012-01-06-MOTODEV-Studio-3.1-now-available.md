@@ -46,7 +46,7 @@ are available for *download at the MOTODEV site* . In my *previous post*
 -   New code snippets, including some for the new Ice Cream Sandwich
     SDK, such as Finding Faces
 
-![Screenshot.png](/assets/images/{{ page.id }}/original(1).jpg)
+![Screenshot.png](/assets/images{{ page.id }}/original(1).jpg)
 **Find Faces code snippet in MOTODEV Studio 3.1**
 
 These things are in addition to many bug fixes that we've made in the

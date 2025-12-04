@@ -36,7 +36,7 @@ Users who want access to the latest plugins, including ADT 16, the way
 to access this release is via the MOTODEV menu. Choose ***MOTODEV -&gt;
 Update MOTODEV Studio*** as shown below.
 
-![](/assets/images/{{ page.id }}/original(1).jpg)
+![](/assets/images{{ page.id }}/original(1).jpg)
 
 We'll have the standalone installers and a plugin archive ready to go
 when we return from the break. We also have something new that I think

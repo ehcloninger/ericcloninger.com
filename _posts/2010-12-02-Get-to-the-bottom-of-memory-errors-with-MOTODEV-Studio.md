@@ -54,7 +54,7 @@ run these steps multiple times to identify problems that arise.
     your data backed up. From this point on, I will use the term
     "device", which could be either a physical handset or an emulator.
 
-    ![1-msd_devmgmt.png](/assets/images/{{ page.id }}/original(1).jpg)
+    ![1-msd_devmgmt.png](/assets/images{{ page.id }}/original(1).jpg)
 
 2.  Right click on the project containing your app in the Package
     Explorer and choose *Run As-&gt;Android Application using MOTODEV
@@ -66,11 +66,11 @@ run these steps multiple times to identify problems that arise.
     that you are testing, and choose *Analyze Memory with MAT* as shown
     below
 
-    ![2-devmgmt_popup_mat.png](/assets/images/{{ page.id }}/original(2).jpg)
+    ![2-devmgmt_popup_mat.png](/assets/images{{ page.id }}/original(2).jpg)
 
 5.  Next, select the app that you wish to observe and press *Finish*
 
-    ![3-analyze_dialog.png](/assets/images/{{ page.id }}/original(3).jpg)
+    ![3-analyze_dialog.png](/assets/images{{ page.id }}/original(3).jpg)
 
 6.  At this point, HPROF goes off and performs its analysis. This
     process will take about 15 seconds, depending on the speed of the
@@ -78,7 +78,7 @@ run these steps multiple times to identify problems that arise.
     in the background, it will probably be finished before you have an
     opportunity to do so.
 
-    ![4-mat_progress.png](/assets/images/{{ page.id }}/original(4).jpg)
+    ![4-mat_progress.png](/assets/images{{ page.id }}/original(4).jpg)
 
 7.  When HPROF is complete, it transfers a file to your computer. This
     file is stored in the directory referenced by the TEMP environment
@@ -86,21 +86,21 @@ run these steps multiple times to identify problems that arise.
     asking how to process the results. Since we're interested in finding
     leaks, choose the first option.
 
-    ![5-MAT_getting_started.png](/assets/images/{{ page.id }}/original(5).jpg)
+    ![5-MAT_getting_started.png](/assets/images{{ page.id }}/original(5).jpg)
 
 8.  The chart shown below is an example of what you will see from MAT.
     It has identifies several likely culprits as causing the leaks we
     see. The chart has links that allow you to drill deeper into each of
     the problem areas and allow you to explore individual data elements.
 
-    ![6-mat_chart.png](/assets/images/{{ page.id }}/original(6).jpg)
+    ![6-mat_chart.png](/assets/images{{ page.id }}/original(6).jpg)
 
     As I mentioned at the outset, there will be some false positives in
     the results and it helps to know which ones are caused by the
     framework and which come from your code. In my case, the problem was
     actually the second candidate, as shown below.
 
-    ![7-leak_found.png](/assets/images/{{ page.id }}/original(7).jpg)
+    ![7-leak_found.png](/assets/images{{ page.id }}/original(7).jpg)
 
 9.  There are ways to drill down into the results and actually see the
     contents of the memory that was allocated. From the toolbar at the
@@ -108,7 +108,7 @@ run these steps multiple times to identify problems that arise.
     of an Android on it. This will filter the results for your
     application and allow you to inspect the memory in more detail.
 
-    ![8-mat_chart_toolbar.png](/assets/images/{{ page.id }}/original(8).jpg)
+    ![8-mat_chart_toolbar.png](/assets/images{{ page.id }}/original(8).jpg)
 
 10. If you find you want to go over the results of a previous execution,
     you can do so at any time. Just use *File-&gt;Open* to locate and

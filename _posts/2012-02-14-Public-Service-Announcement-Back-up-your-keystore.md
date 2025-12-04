@@ -12,7 +12,7 @@ and threw snowballs until their fingers were frozen. The meteorologists
 told us to expect 12" (30cm) of snow. These predictions seldom live up
 to expectations, but we prepare for the worst and hope for the best. We
 have plenty of supplies, but I made sure my generator was working,
-bought some extra fuel, and filled a few jerrycans of fresh water.
+bought some extra fuel, and filled a few cans of fresh water.
 
 ![IMGP7595.jpg](/assets/images{{ page.id }}/small.jpg)
 
@@ -65,7 +65,7 @@ If you use the Android tools or Eclipse plus ADT plugins, your keystore is where
 Once you've located your keystore file, copy it somewhere
 safe--preferably in another physical location from your computer.
 Whether it's a flash drive, a network hard drive, your Dropbox account,
-or a github repo, it doesn't matter. So long as it is safe from being
+or a private git repo, it doesn't matter. So long as it is safe from being
 lost.
 
 It would also be a good idea to store the password for the keystore. For
@@ -94,7 +94,7 @@ view named "Application Signing Tool" and click on the button whose icon
 represents "Import Keystore" (it's the second to the last button on the
 right side).
 
-![](/assets/images/{{ page.id }}/original(1).jpg)
+![](/assets/images{{ page.id }}/original(1).jpg)
 
 Now you need to find the existing file that you saved somewhere. You
 will need to remember the password for the import operation and choose
@@ -104,7 +104,7 @@ of the keystore will appear in the list below. You can choose the ones
 you wish to have in your existing keystore, which will be protected by
 the existing keystore password.
 
-![](/assets/images/{{ page.id }}/original(2).jpg)
+![](/assets/images{{ page.id }}/original(2).jpg)
 
 Today my kids are back in school. Later, I'll retrieve the scarf, hat
 and goggles when the snowman melts. I'm happy that our grass have some

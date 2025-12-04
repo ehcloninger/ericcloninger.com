@@ -18,7 +18,7 @@ Portuguese, and Spanish. Simply choose the language you want from the
 installer.
 
 ![Screenshot - 22_12_2010 ,
-12_33_39.png](/assets/images/{{ page.id }}/original(1).jpg)
+12_33_39.png](/assets/images{{ page.id }}/original(1).jpg)
 
 The legal notices were translated and can be viewed in the installer
 before you install the product. We've made every attempt to ensure that
@@ -37,10 +37,10 @@ splash screen appears, you should start seeing messages, menus and
 content in the language you chose as shown in the following screenshots.
 
 ![Screenshot - 22_12_2010 ,
-12_43_31.png](/assets/images/{{ page.id }}/original(2).jpg)
+12_43_31.png](/assets/images{{ page.id }}/original(2).jpg)
 
 ![Screenshot - 22_12_2010 ,
-12_43_58.png](/assets/images/{{ page.id }}/original(3).jpg)
+12_43_58.png](/assets/images{{ page.id }}/original(3).jpg)
 
 If you continue to see English strings, you will need to force MOTODEV
 Studio to launch in the language you chose in the installer. Quit
@@ -69,7 +69,7 @@ pack archive. This file is approximately 10MB in size.
 1.  Once the archive file is successfully downloaded, launch MOTODEV
     Studio and choose Help-&gt;Install New Software.
     ![Screenshot - 22_12_2010 ,
-    12_39_06.png](/assets/images/{{ page.id }}/original(4).jpg)
+    12_39_06.png](/assets/images{{ page.id }}/original(4).jpg)
 2.  From the installation screen, press the Add button.
 3.  In the next screen, enter a name for the item, such as "MOTODEV
     Language Pack".
@@ -96,10 +96,10 @@ Download Components screen.
 
 1.  From the MOTODEV menu, choose Download Components. ![Screenshot -
     22_12_2010 ,
-    12_36_20.png](/assets/images/{{ page.id }}/original(5).jpg)
+    12_36_20.png](/assets/images{{ page.id }}/original(5).jpg)
 2.  From the Download Components screen, choose Language Packs.
     ![Screenshot - 22_12_2010 ,
-    12_37_57.png](/assets/images/{{ page.id }}/original(6).jpg)
+    12_37_57.png](/assets/images{{ page.id }}/original(6).jpg)
     In this list, you will see many choices, not just Chinese,
     Portuguese and Spanish. That's because these language packs come
     from the Eclipse Foundation servers and Eclipse has many language

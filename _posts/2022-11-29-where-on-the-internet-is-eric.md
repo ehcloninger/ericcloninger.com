@@ -33,7 +33,7 @@ I've been on Reddit for over 10 years. I mostly reply to pun threads on r/all an
 
 I created a [new profile](https://www.reddit.com/user/Eriquay) so I can get messages there.
 
-<img src="/assets/images/eriquay-snoo.png" alt="drawing" width="200"/>
+<img src="/assets/imageseriquay-snoo.png" alt="drawing" width="200"/>
 
 ### Slack :arrow_up:
 

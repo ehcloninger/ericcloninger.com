@@ -69,7 +69,7 @@ appears in the English resource file.
 
 {{ page.id }}
 
-![](/assets/images/{{ page.id }}/fig01.gif)
+![](/assets/images{{ page.id }}/fig01.gif)
 
 ***Figure 1.** Constructor for Palm OS editing a Palm OS form.*
 
@@ -252,7 +252,7 @@ BaseX. Any Palm device is capable of displaying English, French, and
 German applications. Japanese applications require a Japanese-enabled
 ROM to display the text correctly.
 
-![](/assets/images/{{ page.id }}/fig02.gif)
+![](/assets/images{{ page.id }}/fig02.gif)
 
 ***Figure 2.** Palm OS Emulator and CodeWarrior debugger.*
 
@@ -271,9 +271,9 @@ the upper right corner. As I type, the MacOS pops up a text entry window
 that converts the 'sounds' I am typing into the correct characters, as
 shown in Figure 3.
 
-![](/assets/images/{{ page.id }}/fig03.gif)
+![](/assets/images{{ page.id }}/fig03.gif)
 
-![](/assets/images/{{ page.id }}/fig03.5.gif)
+![](/assets/images{{ page.id }}/fig03.5.gif)
 
 ***Figure 3.** Constructors' string editor with Japanese text input.*
 

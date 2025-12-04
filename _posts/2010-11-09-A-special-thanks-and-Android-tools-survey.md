@@ -41,7 +41,7 @@ serve them better.
 
 The survey link is: *http://www.surveymonkey.com/s/Motorola_apptools*
 
-![original.png](/assets/images/{{ page.id }}/original(1).jpg)
+![original.png](/assets/images{{ page.id }}/original(1).jpg)
 
 Once again, thank you for using MOTODEV Studio and we wish you all the
 best in 2011.
