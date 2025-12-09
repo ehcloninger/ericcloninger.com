@@ -25,17 +25,37 @@ the first letter of my last name* (i.e. the first 5 letters of this website). I 
 set as high as they go with filters for domains based on country of the sending system. So, if you really want to 
 email, send it as plain text and use a well-known sender, like gmail.com, outlook.com, etc.
 
+If you want to send end-to-end encrypted email, the PGP signature for the above account is below.
+
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+    mDMEaThmOxYJKwYBBAHaRw8BAQdAHuClye42oboteTK+K7mu1nxtahRmEeA6vde0
+    qnK3iki0IEVyaWMgQ2xvbmluZ2VyIDxlcmljY0Bwb2JveC5jb20+iJkEExYKAEEW
+    IQSt321mmeQwtpr3CrFXJjvRpCOShAUCaThmOwIbAwUJEuukZQULCQgHAgIiAgYV
+    CgkICwIEFgIDAQIeBwIXgAAKCRBXJjvRpCOShO9bAPoDE7ryyMCDGwwCj0a9RlzO
+    aQOhyLUwsLVepbI7q2rpfQD/czKtVeUvnXkc2XueskysQ9HW3efw5REdQdoDp+of
+    XQu4OARpOGY7EgorBgEEAZdVAQUBAQdAOywqcDuoBFeCTRP+eu5tE8JETcVUqaib
+    vg6GdELzGAoDAQgHiH4EGBYKACYWIQSt321mmeQwtpr3CrFXJjvRpCOShAUCaThm
+    OwIbDAUJEuukZQAKCRBXJjvRpCOShBKHAQCBAKWmhZwhZ5g4+HYgFhFNANlDBrMG
+    yWtYYf7uz6UpnwD9FQcy7MVS+wTfHFvsJauhXbBzO4H0K40Si7SAh10dSg0=
+    =ae56
+    -----END PGP PUBLIC KEY BLOCK-----
+
+
 If you have my cell number from the last 20+ years, that number still works. It starts with '4' and ends with '9'.
 I have a Google Voice account and that number begins with '4' and ends with '8'. I no longer have a landline, so 
 if you had a number with '663' in it, that number no longer works.
 
-If you are a recruiter or hiring manager, I do occasionally look at LinkedIn messages.
+If you are a recruiter or hiring manager, I do look at LinkedIn messages.
+
+On Discord, my handle is the same as my Github profile (first and middle initial plus last name). I'm not on Discord every day, so no guarantees about prompt replies.
 
 ## About This Site
 
 This site is hosted on AWS, which cost only a few dollars per month. I was previously using Netlify, which worked well enough until they had [a bit of controversy](/blog/goodbye-netlify/) and it made me uncomfortable hosting my site there.
 
 In 2020, I switched from using Atom to VS Code and I'm finding myself working more on my projects than spending time to get my environment to do what I need. Since I'm a bit old-school, I tend to work in the Bash shell most of the time, using Ubuntu under the Windows Subsystem for Linux (WSL).
+
+As of 2025, I've moved the build and testing to run entirely under Powershell. I'm not a fan of the scripting language for Powershell, but Python and Ruby code certainly run faster natively than under WSL.
 
 ## Copyrights
 
