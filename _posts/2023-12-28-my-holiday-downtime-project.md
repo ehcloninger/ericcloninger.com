@@ -107,7 +107,7 @@ With everything working, I backed up the server and stored the backup image on m
 
 So now, I have ad-blocking on the entire house network. Woot.
 
-![](/assets/images2023-12-28/woot-300x200.png)
+![](/assets/images/2023-12-28/woot-300x200.png)
 
 ### Loose Ends
 

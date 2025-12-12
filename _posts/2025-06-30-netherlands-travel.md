@@ -27,7 +27,7 @@ I thought I'd share some insights for other (North) Americans who travel there a
 
     *This includes getting from Schipol airport to Amsterdam Central station.* When you leave the customs/baggage area, look for the intercity trains, which are 1 level below via an escalator or elevator. Before you go down, look for the NS pedestal near the escalator. It is probably yellow and blue and waist-high. Tap it with your phone and get on the next train to Central. They leave about every 15 minutes and take about 20 minutes to get to the Central Station with maybe 1 stop.
     
-    ![](/assets/images2025-06-30/ns-logo.webp)
+    ![](/assets/images/2025-06-30/ns-logo.webp)
 
     If you're traveling by intercity trains, you may be at a station where there aren't turnstiles. In that case, there will be a pedestal with a reader on the platform where the trains depart. Just remember to tap as you enter and exit.
 

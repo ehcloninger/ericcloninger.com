@@ -95,26 +95,26 @@ concept.
 Here's an example. I took this shot in November 2007. It's a tree on a hill near a friends' house,
 taken as the sun was setting. It's a bit under-exposed, but that's alright.
 
-![](/assets/images2021-12-17/1-as-shot.jpg)
+![](/assets/images/2021-12-17/1-as-shot.jpg)
 
 Here's how Adobe Lightroom shows the image. Notice the thirds grid overlaid on the image. You
 can see that the tree isn't quite on the right hand vertical grid and the horizon is pretty
 well centered.
 
-![](/assets/images2021-12-17/2-grid.jpg)
+![](/assets/images/2021-12-17/2-grid.jpg)
 
 Now, here's a treatment with a bit of cropping, highlighting, and contrast adjustment. The
 tree is now on the right third line and the horizon is on the bottom third. I didn't do much 
 saturation adjustment, other than to tone down the colors of the grasses to draw the eye
 to the sky and the tree. 
 
-![](/assets/images2021-12-17/3-cropped.jpg)
+![](/assets/images/2021-12-17/3-cropped.jpg)
 
 Is it a better photo? It's certainly more dramatic and possibly tells a story without words.
 In case you're curious, here it is, with the same adjustments and with the trunk of the tree
 centered horizontally and filling the center third of the frame. 
 
-![](/assets/images2021-12-17/4-centered.jpg)
+![](/assets/images/2021-12-17/4-centered.jpg)
 
 Is it a better shot? For me, it has much less emotional impact.
 
