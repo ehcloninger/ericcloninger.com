@@ -137,7 +137,7 @@ The first issue was easily solved in bulk using Python scripts, requiring a few 
 
 ## OpenCV
 
-I hung out for several days on Slack, Discord, and Reddit groups devoted to the OpenCV project and its myriad of tools. I asked general questions and eventually more detailed questions about my specific use cases. Forums are great for gathering ideas, but everyone their has their own projects and none of them were similar to this one. Unfortuantely, there were no turn-key solutions already built for newspapers. At least, none that the budget for this project would allow.
+I hung out for several days on Slack, Discord, and Reddit groups devoted to the OpenCV project and its myriad of tools. I asked general questions and eventually more detailed questions about my specific use cases. Forums are great for gathering ideas, but everyone their has their own projects and none of them were similar to this one. Unfortunately, there were no turn-key solutions already built for newspapers. At least, none that the budget for this project would allow.
 
 I spent several days experimenting with purpose-built tools to do object detection using [YOLO](https://www.darknetcv.ai/api/index.html) (You Only Look Once). This had promise, but the inconsistent nature of the scans made it difficult to handle more than a few weeks worth of issues at a time. Each batch of issues required me to adjust my code and determine what markers to base the image extraction on. This was leading into a deeper investment in time that I had to give, and I ended up abandoning these tools.
 
