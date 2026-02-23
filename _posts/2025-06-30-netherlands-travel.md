@@ -7,7 +7,7 @@ tags:
   - travel
 ---
 
-We took a 10-day trip to Amsterdam and the region and wanted to share some insights.
+We took a 10-day trip to Amsterdam and the region and wanted to share some insights for other Americans.
 
 <!--more-->
 
@@ -25,7 +25,7 @@ I thought I'd share some insights for other (North) Americans who travel there a
     
     Once you're in Amsterdam, tap your phone at the entrance to the Metro (subway) or as you're getting on a bus or tram. You have to remember to tap when you enter and when you exit or you will pay a higher fare. Your phone needs to be unlocked before you hit the payment reader or you'll get mildly rebuked by the 7 people in the queue behind you. Most of the Metro stations have turnstiles, so you can't bypass them easily or legally. 
 
-    *This includes getting from Schipol airport to Amsterdam Central station.* When you leave the customs/baggage area, look for the intercity trains, which are 1 level below via an escalator or elevator. Before you go down, look for the NS pedestal near the escalator. It is probably yellow and blue and waist-high. Tap it with your phone and get on the next train to Central. They leave about every 15 minutes and take about 20 minutes to get to the Central Station with maybe 1 stop.
+    *This includes getting from Schiphol airport to Amsterdam Central (Centraal) station.* When you leave the customs/baggage area, look for the intercity trains, which are 1 level below via an escalator or elevator. Before you go down, look for the NS pedestal near the escalator. It is probably yellow and blue and waist-high. Tap it with your phone and get on the next train to Central. They leave about every 15 minutes and take about 20 minutes to get to the Central Station with maybe 1 stop.
     
     ![](/assets/images/2025-06-30/ns-logo.webp)
 
@@ -41,19 +41,19 @@ I thought I'd share some insights for other (North) Americans who travel there a
 
 1. **Leave the city**. Get on a train and go somewhere. You don't really need advance tickets, just tap your phone and go.
 
-    * There are windmills a 20 minute train ride from Central in Zaandyjk/Zaanse Schans.
+    * There are windmills a 20 minute train ride from Central in Zaandijk/Zaanse Schans.
     * Utrecht has a neat inner city and market days on Saturday are filled with people.
     * Delft and Den Haag (The Hague) are an hour away.
     * Alkmaar is a nice smaller city with a cheese market.
 
-1. **Get lost**. Leave some free space your calendar. There are a lot of things we just happened across while walking around that we're so glad we encountered. We watched groups walking in double-time to get to the next sight that they missed the vibrant city all around them.
+1. **Get lost**. Leave some free space your calendar. There are a lot of things we just happened across while walking around that we're so glad we encountered. We watched groups walking in double-time to get to the next thing on their list that they missed the vibrant city all around them.
 
 1. **Build up your calves and thighs**. You're going to walk and you're going to be walking up and down stairs. They have tried to adapt the city for disabilities to the best they can, but they're not knocking down buildings simply because they don't have an elevator. If you rent an Airbnb, there's a good chance you'll be upstairs. Also, not every train station has an escalator or elevator. Even if they do, they're not guaranteed to be in working condition.
 
-1. **Leave your cash at home, mostly**. I took €300 with me and rarely used cash. Even for a Coke with a street vendor. Everyone took tap-to-pay. You might want some €0.50, or €1 coins for restrooms. I came back with probably €100 and that was after spending in the Duty Free store at Schipol.
+1. **Leave your cash at home, mostly**. I took €300 with me and rarely used cash. Even for a Coke with a street vendor. Everyone took tap-to-pay. You might want some €0.50, or €1 coins for restrooms. I came back with probably €100 and that was after spending in the Duty Free store at Schiphol.
 
 1. **Leave our tipping culture at home**. Restaurant workers and bartenders make a living wage. They don't need tips. In fact, if you're presented with a credit card machine that wants a tip, just hit 0% with no guilt. I did encounter one server that tried to quickly tap the tip button on the machine and I voided the transaction and asked them to restart it.
 
-    HOWEVER, it's OK to leave a €1 or €2 coin at your table if you enjoyed the service. It's not an obligation and don't feel pressured.
+    HOWEVER, it's OK to leave a €1 coin at your table if you enjoyed the service. I've seen this done in France, but I've been told by a Dutch citizen who read this blog that they've never left a tip, so it is neither expected nor customary. 
 
 Definitely visit and take in everything that a modern, mixed-culture city has to offer. You'll see and experience things unlike anything at home. You might find things that interest and excite you, but you might see things that bewilder and annoy you. It's all part of the joys of travel.
