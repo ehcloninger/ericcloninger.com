@@ -246,7 +246,7 @@ I added an entry in a new file called **/etc/cron.d/renew-tailscale-cert** with 
 
 > `0 2 1 * * root tailscale cert --cert-file /opt/vaultwarden/vw.correct-horse.ts.net.crt --key-file /opt/vaultwarden/vw.correct-horse.ts.net.key vw.correct-horse.ts.net`
 
-### Dead Ends
+## Dead Ends
 
 There were a couple of choices I nearly made that sent me down paths that I probably would've regretted later. Fortunately,
 I caught myself before going too far down these paths.
