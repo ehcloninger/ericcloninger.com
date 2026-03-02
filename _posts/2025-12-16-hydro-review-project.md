@@ -6,6 +6,7 @@ categories:
   - blogs
 tags: 
   - howto
+  - web
 ---
 
 I took on a project to help a local non-profit bring their data online.

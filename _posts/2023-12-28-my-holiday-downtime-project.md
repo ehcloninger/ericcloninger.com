@@ -1,10 +1,12 @@
 ---
 title: "My Holiday Downtime Project"
 excerpt_separator: "<!--more-->"
+toc: true
 categories:
   - blog
 tags: 
   - web
+  - proxmox
 ---
 
 My employer shuts the entire company down over the holiday break, so I find myself with idle hands. Naturally, it's time to break something.

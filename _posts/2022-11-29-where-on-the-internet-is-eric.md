@@ -27,15 +27,13 @@ If you have my cell number from the last 22+ years, that number still works. It 
 
 If you use [Signal Messenger](https://signal.org) and know my cell number, I will connect.
 
-### Reddit :arrow_up:
+### Discord :arrow_up:
 
-I've been on Reddit for over 10 years. I mostly reply to pun threads on r/all and interact with people on a couple of hobby-specific subs. I don't use it like I would a social network like Twitter or Facebox as nobody there realizes that I'm a :dog: in real life.
+I've been on Discord for a few years, but I really don't socialize there. It's mostly out of need, but I think I will likely increase my presence there. 
 
-I created a [new profile](https://www.reddit.com/user/Eriquay) so I can get messages there.
+**ehcloninger**
 
-<img src="/assets/imageseriquay-snoo.png" alt="drawing" width="200"/>
-
-### Slack :arrow_up:
+### Slack :neutral_face:
 
 I use Slack frequently for work, but I haven't got into finding communities with it. If you have a Slack workspace where you'd like a joker such as myself, send an invite.
 
@@ -44,12 +42,6 @@ I use Slack frequently for work, but I haven't got into finding communities with
 Like many other refugees from Twitter, I have created a Mastodon account, but I haven't yet dug into the culture and behavior of the service to see if it suits me.
 
 [@ericc@mastodon.world](https://mastodon.world/@ericc)
-
-### Discord :neutral_face:
-
-I've been on Discord for a few years, but I really don't socialize there. It's mostly out of need, but I think I will likely increase my presence there.
-
-**ecdroid#5041**
 
 ### Twitter :arrow_down:
 
@@ -65,4 +57,4 @@ I would love to use Whatsapp for the community and its near-standard status as a
 
 ### Telegram :no_entry_sign:
 
-I don't use services with proprietary cryptographic techniques and I certainly don't use services headquartered in Russia, so this is a non-starter.
+I don't use services with proprietary cryptographic techniques regardless of where the service is located, so this is a non-starter.

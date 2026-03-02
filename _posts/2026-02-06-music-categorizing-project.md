@@ -6,6 +6,7 @@ categories:
  - blogs
 tags: 
  - howto
+ - proxmox
 ---
 
 With some time on my hands, I delved into organizing my digital music library for online streaming.
