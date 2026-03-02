@@ -17,6 +17,9 @@ Bringing my passwords to my local server, with secure mobile app support.
 a write-up on this topic in a single location, so I'm going to document what I
 discovered and hopefully it will help the next person.
 
+If you want to skip the boring background bits, 
+[click here](/blogs/vaultwarden-on-proxmox-with-tailscale-https/#get-on-with-it-already).
+
 ---
 
 ## The Boring Background Bits
@@ -51,16 +54,30 @@ The reverse proxy I use is called [Nginx Proxy Manager](https://nginxproxymanage
 other choices, such as [Caddy](https://caddyserver.com/) and [Traefik](https://traefik.io/traefik). 
 I tried both of those, but found the Nginx proxy worked great and had the least amount of configuration hassles.
 
-Nginx Proxy Manager (unfortunately abbreviated as **NPM**, but fortunately has nothing to do with Node.js), 
+Nginx Proxy Manager (unfortunately abbreviated as **NPM**, but fortunately having nothing to do with Node.js), 
 coupled with [CloudFlare DNS](https://cloudflare.com), allows me to create a subdomain and handle traffic to 
 and from that domain. The admin panel in NPM allows me to request and install a LetsEncrypt SSL certificate so 
 that communication between whatever device I'm using and the server is as secure as can be. I don't expose all 
 the services on Proxmox to the open Internet, just those where I need to be able to access the information 
 using a mobile app over secure connections. 
 
-I don't have any truly sensitive data exposed on these open connections. I have a music server called 
-Navidrome, a photo gallery called Immich, and my WeeWx weather station. If some hacker wants my music 
-collection, they are welcome to it.
+For this project, I'm NOT going to use Nginx and CloudFlare. I explicitly do NOT want to take a chance
+that a stray CVE or missed setting will give someone my passwords. But, I want the type of convenience
+they provide in having HTTPS and DNS. 
+
+That's where Tailscale comes in.
+
+### Tailscale
+
+[Tailscale](https://tailscale.com) is a personal VPN that implements the WireGuard protocol. The folks that 
+built Tailscale deserve a few beers for implementing something that "just works". With Tailscale installed 
+on a server, workstation, phone, router, or NAS, you can access protected assets when you're away from your 
+local network without exposing them to the open Internet.
+
+This is exactly what I want for my password server. I don't want it facing down Internet randos on a daily 
+basis. It needs to just sit there and run on my local network. When I need to sync with it, I will start 
+the Tailscale client on my phone or laptop to connect to my home services. Otherwise, they remain out of reach 
+to casual visitors and hackers.
 
 ### VaultWarden on Proxmox
 
@@ -74,18 +91,6 @@ back-end server. A Proxmox Community Script
 unpriviliged Linux Container (LXC). The installer builds from sources, so it may take a little longer 
 than other Proxmox projects or Docker instances that you have used. For my N100 mini-PC setup with
 32GB of RAM, it took around 20 minutes.
-
-### Tailscale
-
-[Tailscale](https://tailscale.com) is a personal VPN that implements the WireGuard protocol. The folks that 
-built Tailscale deserve a few beers for implementing something that "just works". With Tailscale installed 
-on a server, workstation, phone, router, or NAS, you can access protected assets when you're away from your 
-local network without exposing them to the open Internet.
-
-This is exactly what I want for my password server. I don't want it facing down Internet randos on a daily 
-basis. It needs to just sit there and run on my local network. When I need to sync with it, I will start 
-the Tailscale client on my phone or laptop to connect to my home services. Otherwise, they remain out of reach 
-to casual visitors and hackers.
 
 ## Get On With It, Already
 
