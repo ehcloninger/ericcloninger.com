@@ -24,8 +24,8 @@ If you want to skip the boring background bits,
 
 ## The Boring Background Bits
 
-I've been using [Bitwarden](https://bitwarden.com) for about 7 years. I am happy to pay them 
-to for their work and for using their infrastructure to keep my passwords secure. This year, 
+I've been using [Bitwarden](https://bitwarden.com) for about 7 years. I am happy to pay  
+for their work and for using their infrastructure to keep my passwords secure. This year, 
 there are two circumstances that had me looking into self-hosting a password server:
 
 1. Bitwarden increased the annual cost of hosting by 20%
