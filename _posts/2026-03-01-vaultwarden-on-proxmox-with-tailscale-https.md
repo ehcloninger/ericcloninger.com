@@ -86,7 +86,10 @@ managers, it has had the fewest reported intrusions or CVEs logged against it. I
 putting my passwords in there, but I'm aware that not every service is guaranteed to remain secure.
 
 [VaultWarden](https://github.com/dani-garcia/vaultwarden) is an open-source alternative to the Bitwarden 
-back-end server. A Proxmox Community Script 
+back-end server. The project exists with the blessing of the Bitwarden team. There is even a Bitwarden 
+employee working on VaultWarden to ensure the servers are compatible. 
+
+A Proxmox Community Script 
 [installs VaultWarden](https://community-scripts.github.io/ProxmoxVE/scripts?id=vaultwarden) as an
 unpriviliged Linux Container (LXC). The installer builds from sources, so it may take a little longer 
 than other Proxmox projects or Docker instances that you have used. For my N100 mini-PC setup with
@@ -127,6 +130,12 @@ Feed that phrase into the key encoder using this command.
 Copy the line beginning with *ADMIN_TOKEN* and paste it into **/opt/vaultwarden/.env**. Restart vaultwarden with 
 
 > `servicectl restart vaultwarden`
+
+If anything goes wrong in restarting the server, check the output of the service with 
+
+> `journalctl -u vaultwarden` 
+
+Go to the bottom of the output to find the most recent error messages.
 
 Now, access your instance from a web browser and you'll be presented with a login form, where you will enter
 your passphrase of **correct horse battery staple**.
@@ -176,14 +185,9 @@ Restart VaultWarden with
 
 > `servicectl restart vaultwarden` 
 
-If anything goes wrong, you can check the output of the service with 
-
-> `journalctl -u vaultwarden` 
-
-Go to the bottom of the output to find the most recent error messages.
-
 If everything works, you can now go to your VaultWarden instance on a machine connected to Tailscale with
-https://vw.correct-horse.ts.net/admin.
+
+> https://vw.correct-horse.ts.net/admin
 
 ### Admin Panel Change
 
@@ -208,9 +212,7 @@ and the back-end will not accept any attempts to create a new account.
 
 ### Set Up Mobile Devices
 
-The VaultWarden service is set up to be a drop-in replacement for the Bitwarden back-end. They do this with
-the blessing of the Bitwarden team. There is even a Bitwarden employee working on VaultWarden to ensure the
-servers are compatible. 
+The VaultWarden service is set up to be a drop-in replacement for the Bitwarden back-end. 
 
 > **NOTE:** I tried to take screenshot of the screens  I'm describing and the app (rightly) prevented me from doing
 so. I didn't want to take a photograph, so you'll just have to make do with the descriptions I provide.
@@ -228,45 +230,45 @@ have passwords on your mobile device. 🎉
 ## Wait 90 Days
 
 One detail that I deliberately skipped over earlier is the lifetime of the SSL certificate and key that gives us 
-HTTPS access. LetsEncrypt certs expire after 90 days and must be renewed. Because Tailscale doesn't know where or
-how we're using the certificate they requested, they cannot issue renewals without us initiating the request. It's 
-up to us to issue the `tailscale cert` command again before the old one expires. This is described in more detail in 
+HTTPS access. LetsEncrypt certs expire after 90 days and must be renewed. 
+
+Because Tailscale doesn't know where or how we're using the certificate they requested, they cannot issue renewals 
+without us initiating the request. It's up to us to issue the `tailscale cert` command again before the old one expires
+and then move or rename the files as necessary. This is described in more detail in 
 [the Tailscale documentation](https://tailscale.com/docs/how-to/set-up-https-certificates).
 
 I haven't needed to renew my certificate yet, so I can't say for a fact this will work. I tried to renew the cert
 1 day after issuing it, but it said the cert was not yet expired. I need to figure out how often I need to request
-renewal. For now, this is how I have configured my certificate renewal...
+renewal. For now, this is how I have configured my certificate renewal.
 
-At 2:00 AM on the first day of each month, a [cron](https://en.wikipedia.org/wiki/Cron) job issues a renewal request.
-I added an entry in a new file called /etc/cron.d/renew-tailscale-cert with this information:
+Attempt the job at 2:00 AM on the first of each month using [cron](https://en.wikipedia.org/wiki/Cron).
+I added an entry in a new file called **/etc/cron.d/renew-tailscale-cert** with this information:
 
-```
-0 2 1 * * root tailscale cert --cert-file /opt/vaultwarden/vw.correct-horse.ts.net.crt --key-file /opt/vaultwarden/vw.correct-horse.ts.net.key vw.correct-horse.ts.net
-```
+> `0 2 1 * * root tailscale cert --cert-file /opt/vaultwarden/vw.correct-horse.ts.net.crt --key-file /opt/vaultwarden/vw.correct-horse.ts.net.key vw.correct-horse.ts.net`
 
 ### Dead Ends
 
 There were a couple of choices I nearly made that sent me down paths that I probably would've regretted later. Fortunately,
 I caught myself before going too far down these paths.
 
-1. Making the service available on the open Internet. Actually, this was never a goal, but I experimented by putting
+1. **Making the service available on the open Internet**. Actually, this was never a goal, but I experimented by putting
 vaultwarden.my-domain.com on CloudFlare with a empty server that returned a 500 status code. This server got a lot of
 traffic from looking at the logs. I suspect miscreants watch for new DNS entries and pounce as quickly as they 
 can when they find one with an interesting name.
 
-2. Trying to install the tun kernel module in my LXC. It turns out that an unpriviliged
-LXC doesn't have this module by default because it needs to run as root. I had to enable it by shutting the server down and adding the following line at the bottom of the LXC config file using the Proxmox console (e.g. /etc/pve/lxc/123.conf). After saving and starting the container, the Tailscale service would start and I could connect to the control server with `tailscale up`.
+2. **Trying to install the tun kernel module in my LXC**. It turns out that an unpriviliged
+LXC doesn't have this module by default because it needs to run as root. I had to enable it by shutting the server down and adding the following line at the bottom of the LXC config file using the Proxmox console (e.g. **/etc/pve/lxc/123.conf**). After saving and starting the container, the Tailscale service would start and I could connect to the control server with `tailscale up`.
 > lxc.mount.entry: /dev/net/tun dev/net/tun none bind,create=file
 
-3. Installing the LetsEncrypt certbot tool on my server. Normally, this is how you would get a certificate renewed, but
+3. **Installing the LetsEncrypt certbot tool on my server**. Normally, this is how you would get a certificate renewed, but
 I couldn't figure out which webserver was being used by VaultWarden. It turns out to be neither Apache nor Nginx, but its
 own server framework called [Rocket](https://rocket.rs/). While trying to decide how to handle this, I realized that Tailscale 
 does the request for users with better results than I could do myself.
 
-4. Thinking I needed the certs in PEM format. When the VaultWarden server would fail, it was pointing to
+4. **Thinking I needed certs in PEM format**. When the VaultWarden server would fail, it was pointing to
 the cert files in the error logs. I thought it was because the certs were in .crt format and the examples 
 showed PEM files. I tracked down how to convert the files with openSSL, but it turns out that I had 
-fat-fingered the file name in the .env file and just needed to correct the file names. 😳
+mis-typed the file name in the .env file and just needed to correct the file names. 😳
 
 ## Wrap It Up
 
@@ -282,8 +284,8 @@ projects and linking to their sites that I'm able to help shine some light on gr
 
 ## Talk to Me
 
-I didn't start out trying to write this, so I had to go back in my console and browser histories to see what 
-I was doing and why. If, for any reason, you find something incorrect or I need to update the instructions, 
+I didn't start out trying to write this as a tutorial, so I had to go back in my console and browser histories 
+to see what I was doing and why. If, for any reason, you find something incorrect or I need to update the instructions, 
 I'll happily do so.
 
 My GitHub profile is linked in the sidebar. I'll absolutely take PRs and merge them, but you can also just
