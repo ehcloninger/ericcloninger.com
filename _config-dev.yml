@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: EricCloninger.com
 email: ericc@pobox.com
-description: Some guy continuously making messes and cleaning them up again
+description: "100% human-generated content."
 minimal_mistakes_skin: default
 search: true
 favicon: "https://EricCloninger.com/favicon.png" # the favicon for your site
@@ -76,7 +76,7 @@ head_scripts:
 author:
   name   : "Eric Cloninger"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : 100% human-generated content.
+  bio    : "100% human-generated content."
   bsky_user: "ericcloninger.bsky.social"
   # twitter: "ericc"
   links:
