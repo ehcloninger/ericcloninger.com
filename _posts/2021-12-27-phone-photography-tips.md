@@ -4,6 +4,8 @@ categories :
 tags : 
   - web
 title: "Some Photography Tips for Phone Users"
+toc: true
+og_image: /assets/banners/seo-banner.png
 ---
 
 You're driving home from work and you see the most incredible sunset after a thunderstorm. 

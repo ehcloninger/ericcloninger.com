@@ -5,6 +5,7 @@ categories:
   - blog
 tags: 
   - travel
+og_image: /assets/banners/seo-banner.png
 ---
 
 We took a 10-day trip to Amsterdam and the region and wanted to share some insights for other Americans.

@@ -7,6 +7,7 @@ categories:
 tags: 
  - howto
  - proxmox
+og_image: /assets/banners/seo-banner.png
 ---
 
 With some time on my hands, I delved into organizing my digital music library for online streaming.

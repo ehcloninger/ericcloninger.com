@@ -5,6 +5,7 @@ categories:
   - blog
 tags: 
   - web
+og_image: /assets/banners/seo-banner.png
 ---
 
 In the tech world, the saying goes "*If the service is free, you are the product*".

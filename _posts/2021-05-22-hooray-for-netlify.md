@@ -4,6 +4,7 @@ categories :
 tags : 
   - web
 title: "Hooray for Netlify"
+og_image: /assets/banners/seo-banner.png
 ---
 
 This is a quick post to test a site change that will hopefully make life much easier on me in maintaining

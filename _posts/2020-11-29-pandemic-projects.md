@@ -4,6 +4,7 @@ categories :
 tags : 
   - covid
 title: "Pandemic Projects"
+og_image: /assets/banners/seo-banner.png
 ---
 
 My pandemic projects for 2020/2021 have pretty much been the following...

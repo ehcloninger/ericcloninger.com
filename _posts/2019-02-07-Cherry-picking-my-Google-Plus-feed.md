@@ -4,6 +4,7 @@ categories :
 tags : 
   - social
 title: Cherry picking my Google Plus feed
+og_image: /assets/banners/seo-banner.png
 ---
 Google+ (aka G+, aka Google Plus) is going to shut down soon. As a social site, G+ stopped being relevant years ago. I won&rsquo;t go into why, because it won&rsquo;t change the way Google manages their products.
 

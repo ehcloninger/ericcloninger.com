@@ -5,6 +5,7 @@ tags :
   - work
   - covid
 title: "So, You're Going to Work from Home Now"
+og_image: /assets/banners/seo-banner.png
 ---
 With COVID-19 causing [all sorts of disruption](https://edition.cnn.com/asia/live-news/coronavirus-outbreak-03-09-20-intl-hnk/index.html), companies are asking their employees to [stay home](https://9to5mac.com/2020/03/09/apple-retail-workers-coronavirus/) for extended periods. Universities are [making classes virtual](https://www.cnbc.com/2020/03/10/coronavirus-harvard-moves-classes-online-tells-students-dont-return-after-spring-break.html) until after spring break. I'm not an epidemiologist, but these measures are probably a good idea.
 

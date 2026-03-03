@@ -5,6 +5,8 @@ categories:
   - blog
 tags: 
   - travel
+toc: true
+og_image: /assets/banners/seo-banner.png
 ---
 
 Thanks to a friend, I found a new website to obsess over.

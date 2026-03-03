@@ -5,6 +5,8 @@ categories:
   - blog
 tags: 
   - social
+toc: true
+og_image: /assets/banners/seo-banner.png
 ---
 
 With the recent chaos at Twitter, finding me on the Internet is a bit more difficult. So, here's an update.

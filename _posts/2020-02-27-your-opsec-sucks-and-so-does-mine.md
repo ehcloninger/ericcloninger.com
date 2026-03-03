@@ -5,6 +5,7 @@ tags :
   - work
   - travel
 title: "Your Op-Sec Sucks (and so does mine)"
+og_image: /assets/banners/seo-banner.png
 ---
 A couple weeks back, I was on a flight leaving San Jose on a Friday morning.
 The flight left before dawn, filled to the brim with business travelers wanting

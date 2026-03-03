@@ -6,6 +6,7 @@ tags :
   - howto
 title: "Deploying a Secure (HTTPS) AWS S3 Static Site Over CloudFront"
 toc: true
+og_image: /assets/banners/seo-banner.png
 ---
 
 **TL;DR** - Don't use AWS Lambdas to try to fix what is a problem in the CloudFront settings. See the solution at the 

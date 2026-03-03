@@ -7,6 +7,8 @@ categories:
 tags: 
   - web
   - proxmox
+toc: true
+og_image: /assets/banners/seo-banner.png
 ---
 
 My employer shuts the entire company down over the holiday break, so I find myself with idle hands. Naturally, it's time to break something.

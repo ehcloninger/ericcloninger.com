@@ -7,6 +7,7 @@ categories:
 tags: 
   - howto
   - web
+og_image: /assets/banners/seo-banner.png
 ---
 
 I took on a project to help a local non-profit bring their data online.
