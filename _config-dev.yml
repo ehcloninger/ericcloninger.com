@@ -20,7 +20,7 @@ minimal_mistakes_skin: default
 search: true
 favicon: "https://EricCloninger.com/favicon.png" # the favicon for your site
 logo: &logo "https://EricCloninger.com/favicon.png"
-og_image: "https://EricCloninger.com/assets/images/bio-photo.jpg"
+og_image: "https://EricCloninger.com/assets/banners/seo-banner.png"
 
 # Build settings
 markdown: kramdown
