@@ -62,9 +62,9 @@ that communication between whatever device I'm using and the server is as secure
 the services on Proxmox to the open Internet, just those where I need to be able to access the information 
 using a mobile app over secure connections. 
 
-For this project, I'm NOT going to use Nginx and CloudFlare. I explicitly do NOT want to take a chance
-that a stray CVE or missed setting will give someone my passwords. But, I want the type of convenience
-they provide in having HTTPS and DNS. 
+Having said that, for this project, I'm NOT going to use Nginx and CloudFlare. I explicitly do NOT want to take 
+a chance that a stray CVE or missed setting will give someone my passwords. But, I want the type of convenience
+they provide in having HTTPS and DNS.
 
 That's where Tailscale comes in.
 
