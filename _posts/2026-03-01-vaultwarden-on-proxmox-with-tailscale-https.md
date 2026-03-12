@@ -260,8 +260,7 @@ can when they find one with an interesting name.
 2. **Trying to install the tun kernel module in my LXC**. It turns out that an unpriviliged
 LXC doesn't have this module by default because it needs to run as root. I had to enable it by shutting the server down and adding the following line at the bottom of the LXC config file using the Proxmox console (e.g. **/etc/pve/lxc/123.conf**). After saving and starting the container, the Tailscale service would start and I could connect to the control server with `tailscale up`.
 > lxc.mount.entry: /dev/net/tun dev/net/tun none bind,create=file
-
-As a followup to this, it turns out this is an option that is **off** by default when setting up an LXC project from the community scripts. If you choose to select this option at install time, the script will do this for you.
+> As a followup to this, it turns out this is an option that is **off** by default when setting up an LXC project from the community scripts. If you choose to select this option at install time, the script will do this for you.
 
 3. **Installing the LetsEncrypt certbot tool on my server**. Normally, this is how you would get a certificate renewed, but
 I couldn't figure out which webserver was being used by VaultWarden. It turns out to be neither Apache nor Nginx, but its
